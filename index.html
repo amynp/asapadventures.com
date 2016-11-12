@@ -468,14 +468,14 @@
             // For more options see: https://developers.google.com/maps/documentation/javascript/reference#MapOptions
           var mapOptions = {
             // How zoomed in you want the map to start at (always required)
-            zoom: 3,
+            zoom: 2,
             scrollwheel: false,
             zoomControl: true,
             mapTypeControl: false,
             scaleControl: false,
             streetViewControl: false,
             // The latitude and longitude to center the map (always required)
-            center: new google.maps.LatLng(38.119962, -8.474970), // map center
+            center: new google.maps.LatLng(35.693317,139.7635979), // map center
             // How you would like to style the map.
             // This is where you would paste any style found on Snazzy Maps.
             styles:
@@ -669,6 +669,13 @@
             position: new google.maps.LatLng(54.294999, -114.003350),
             map: map,
             title: 'Snazzy!'
+          });
+          var tokyo = new google.maps.Marker({
+            icon: image,
+            animation: google.maps.Animation.DROP,
+            position: new google.maps.LatLng(35.693317,139.7635979),
+            map: map,
+            title: 'Tokyo!'
           });
           var marker2 = new google.maps.Marker({
             icon: image,
