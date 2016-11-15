@@ -1,0 +1,24 @@
+# Site settings
+title: ASAPAdventures
+
+baseurl: ''
+url: 'http://asapadventures.com'
+
+# Build settings
+markdown: kramdown
+relative_permalinks: false
+permalink: :title/
+gems: [jekyll-paginate]
+
+pagination: true
+paginate: 8
+paginate_path: page/:num/
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+collections:
+  japan2010:
+    output: true
+    permalink: /japan2010/:path/

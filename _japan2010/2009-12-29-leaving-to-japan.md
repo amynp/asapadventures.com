@@ -1,0 +1,43 @@
+---
+
+layout: blog-template
+title: "Leaving to Japan"
+subHeading: "We are finally here in Japan!"
+bannerImage: https://4.bp.blogspot.com/-gzJm_aTNn1g/WCL-5JIT89I/AAAAAAAACzI/U5jOV6Im_Lg1eKt5KRZSWqUw8H8zlQm8wCLcB/s1600/IMG_3264%255B1%255D.jpg
+date: 2009-12-29
+author: Amy Parkhill
+
+---
+
+After leaving at 4 in the morning to get to the airport, we had quite a long day, with us not reaching our accommodation till about 10 pm here (which for you people in Melbourne is 12 am). The plane trip was long and Anthony slept for a little bit, i think i had 30 minutes worth.
+
+<div class="center-image"><img src="https://4.bp.blogspot.com/-gzJm_aTNn1g/WCL-5JIT89I/AAAAAAAACzI/U5jOV6Im_Lg1eKt5KRZSWqUw8H8zlQm8wCLcB/s1600/IMG_3264%255B1%255D.jpg" /></div>
+
+Lee found a friend on the first leg of the flight (Melbourne to Gold Coast), a little girl named Jessica who decided it would be a fantastic idea to write her name and draw a spider on his hand. Anthony finally got what he wanted at the Gold Coast airport: he got tested for bomb residue, which put him in a good mood. The security guard said we were not allowed to take pictures of this event.
+
+<div class="center-image"><img src="https://4.bp.blogspot.com/-gzJm_aTNn1g/WCL-5JIT89I/AAAAAAAACzI/U5jOV6Im_Lg1eKt5KRZSWqUw8H8zlQm8wCLcB/s1600/IMG_3264%255B1%255D.jpg" /></div>
+
+The second leg of the trip (Gold Coast to Narita) consisted of many movies. Between us we watched District 9 (CRAP!), Mao's last Dancer (didn't see it), UP (a tad sad, but made me giggle) and a few other bits and pieces.
+
+Arriving in Tokyo was like arriving in the city of lights, it was beautiful. Flying into Narita airport we all got a lot more excited, we were actually here! Once we got off the plane we got our first taste that something was different here, I mean besides the Japanese signage everywhere...
+
+We walked to these doors, behind which was a little shuttle train type thing. We hoped aboard and were transported about 500 m to the next terminal, who said we should have to walk?
+
+After leaving at 4 in the morning to get to the airport, we had quite a long day, with us not reaching our accommodation till about 10 pm here (which for you people in Melbourne is 12 am). The plane trip was long and Anthony slept for a little bit, i think i had 30 minutes worth.
+
+Lee found a friend on the first leg of the flight (Melbourne to Gold Coast), a little girl named Jessica who decided it would be a fantastic idea to write her name and draw a spider on his hand. Anthony finally got what he wanted at the Gold Coast airport: he got tested for bomb residue, which put him in a good mood. The security guard said we were not allowed to take pictures of this event.
+
+The second leg of the trip (Gold Coast to Narita) consisted of many movies. Between us we watched District 9 (CRAP!), Mao's last Dancer (didn't see it), UP (a tad sad, but made me giggle) and a few other bits and pieces.
+
+Arriving in Tokyo was like arriving in the city of lights, it was beautiful. Flying into Narita airport we all got a lot more excited, we were actually here! Once we got off the plane we got our first taste that something was different here, I mean besides the Japanese signage everywhere...
+
+We walked to these doors, behind which was a little shuttle train type thing. We hoped aboard and were transported about 500 m to the next terminal, who said we should have to walk?
+
+So far I have had a very good impression of Tokyo. A man at the main train station was so helpful, and he stopped to talk to me and make sure we knew where we were going. The people here so far have been very polite and helpful. Anthony had his first Asian experience outside of Bunnings and through gestures and pointing we managed to find out where we were going. We actually transported ourselves here pretty easily. When we arrived I had a headache and went straight to bed. Anthony however decided to have his first Japanese meal experience.
+
+We've designated Lee and Sarma's room as the gathering place, We settled in and were hungry. So, we asked the guys at the desk where we could go that would still be open at 11pm at night, and ended up with quite an impressive list of places to go. We settled for what looked like a noodle bar just down the road. We had no idea what to do, so we played it cool and waited for a local to give us a quick demonstration, he didn't know this of course, because we were watching from outside.
+
+They have what looks like an over sized vending machine, with small pictures of the meals on them. Lee expected the machine to serve the food, but it only gave us a ticket, So we sat down and waited, then guy gave us this cold green beverage (or so Sarma assumed, i took a more cautious approach and waited for the other guy to take a sip). Turns out Sarma was right! ...but it tasted terrible.
+The food was pretty good and very very cheap! 500 yen or so, whats that, $7?
+
+Tomorrow we are heading to Asakusa.

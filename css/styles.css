@@ -5,9 +5,9 @@
     Version: 1.0
     Author: Themes Dojo
 
-    TABLE OF CONTENTS 
+    TABLE OF CONTENTS
     ---------------------------
-    
+
      1.  Basic
      2.  Pages
      	2.1 index.html (First Page)
@@ -19,17 +19,17 @@
      	2.7 about.html (About Us Page)
      	2.8 page404.html (Page 404)
      	2.9 experience.html (Experiences Page)
-	
+
 	 3. Overlay
 	 4. Additional Classes
 	 5. CSS3 Animations
-     
+
 */
 
 /*************************************************************************************************
-											1.Basic 
+											1.Basic
 **************************************************************************************************/
-html, 
+html,
 body{
 	margin: 0;
 	padding: 0;
@@ -147,7 +147,7 @@ input:focus{
 	letter-spacing: 2px;
 	font-weight: 900;
 	transition: color 0.3s ease-in-out
-} 
+}
 .navbar-nav>li>a:after {
     position: absolute;
     left: 25px;
@@ -254,7 +254,7 @@ input:focus{
     -webkit-transform: translateX(-50%) translateY(-50%);
     transform: translateX(-50%) translateY(-50%);
     background: url('http://placehold.it/1920x1080') no-repeat;
-    background-size: cover; 
+    background-size: cover;
 }
 
 video{display: block;}
@@ -806,7 +806,7 @@ section.about{
 }
 .blog-intro .btn:hover{
 	background: #e04930;
-	color: #fff; 
+	color: #fff;
 	border-color: #fff;
 	box-shadow: 0 0 0 2px #e04930;
 }
@@ -861,7 +861,7 @@ section.about{
     visibility: hidden;
     z-index: -1;
     transition-duration: 0.3s;
-    transition-timing-function: ease-in-out; 
+    transition-timing-function: ease-in-out;
 }
 .posts-list li a:hover span{
 	margin-bottom: 0;
@@ -1208,7 +1208,7 @@ p.subscribe-text{
 	z-index: 1;
 	transition: all 0.2s ease-in-out;
 }
-.regions-sidebar li a:hover{ 
+.regions-sidebar li a:hover{
 	text-decoration: none;
 	color: #333;
 }
@@ -1669,10 +1669,10 @@ p.subscribe-text{
 	margin: 0 15px;
 	transition: all 0.3s ease-in-out;
 }
-.places-tabs>li.active>a, 
-.places-tabs>li.active>a:hover, 
+.places-tabs>li.active>a,
+.places-tabs>li.active>a:hover,
 .places-tabs>li.active>a:focus,
-.places-tabs>li>a:hover{ 
+.places-tabs>li>a:hover{
 	border: 2px solid #e04930;
 	color: #e04930;
 }
@@ -1946,7 +1946,7 @@ p.subscribe-text{
 	color: #e04930;
 	font-weight: 800;
 	letter-spacing: 2px;
-} 
+}
 .sidebar h6 span{color: #333;}
 
 .sidebar .categories h6{margin-bottom: 20px;}
@@ -2261,7 +2261,7 @@ p.subscribe-text{
 }
 .blog-page-wrapp .pagination li>a:hover{
 	background: #e04930;
-	color: #fff; 
+	color: #fff;
 	border-color: #fff;
 	box-shadow: 0 0 0 2px #e04930;
 }
@@ -2304,6 +2304,14 @@ span.post-author a:hover{color: #e04930;}
 .blog-post-content p{
 	line-height: 30px;
 	margin-bottom: 20px;
+}
+.blog-post-content .center-image{
+	width: 100%;
+	text-align: center;
+	padding-bottom: 20px;
+}
+.blog-post-content img{
+	width: 65%;
 }
 .blog-post-content .post-image{margin-bottom: 20px}
 .blog-post-content .post-cite{
@@ -2409,7 +2417,7 @@ span.post-author a:hover{color: #e04930;}
 }
 /* next prev blog post buttons */
 .posts-pagination{width: 100%;}
-.posts-pagination .prev-post a, 
+.posts-pagination .prev-post a,
 .posts-pagination .next-post a{
 	position: relative;
 	width: auto;
@@ -2425,7 +2433,7 @@ span.post-author a:hover{color: #e04930;}
 	border-radius: 30px !important;
 	transition: all 0.3s ease-in-out;
 }
-.posts-pagination .prev-post a:before, 
+.posts-pagination .prev-post a:before,
 .posts-pagination .next-post a:before{
 	position: absolute;
 	top: 19px;
@@ -2443,7 +2451,7 @@ span.post-author a:hover{color: #e04930;}
 	right: 12px;
 	content: "\f105";
 }
-.posts-pagination .prev-post a:hover, 
+.posts-pagination .prev-post a:hover,
 .posts-pagination .next-post a:hover{
 	color: #fff;
 	background: #e04930;
@@ -2529,7 +2537,7 @@ span.post-author a:hover{color: #e04930;}
 **************************************************************************************************/
 
 /*************************************************************************************************
-										2.7 About Us Page 
+										2.7 About Us Page
 **************************************************************************************************/
 /* header */
 .about-page header{
@@ -2797,7 +2805,7 @@ span.post-author a:hover{color: #e04930;}
 	padding: 60px 50px 0 50px;
 	margin-top: 28px;
 }
-.tip .icon{ 
+.tip .icon{
 	display: inline-block;
 	position: absolute;
 	top: 0px;
@@ -2911,7 +2919,7 @@ span.post-author a:hover{color: #e04930;}
 .adventure-list.experience .overlay-lnk i.icon{margin-top: 0;}
 
 .adventure-list.experience .overlay-lnk:before,
-.adventure-list.experience .overlay-lnk:after{ 
+.adventure-list.experience .overlay-lnk:after{
 	top: 10px;
 	left: 10px;
 	right: 10px;
@@ -2919,7 +2927,7 @@ span.post-author a:hover{color: #e04930;}
 	z-index: 2;
 	border-color: #fff;
 }
-.adventure-list.experience a:hover .overlay-lnk:before, 
+.adventure-list.experience a:hover .overlay-lnk:before,
 .adventure-list.experience a:hover .overlay-lnk:after{
 	opacity: 1;
     -webkit-transform: scale(1);
@@ -3073,7 +3081,7 @@ span.post-author a:hover{color: #e04930;}
 	transition: all 0.2s ease-in-out;
 }
 
-.btn:focus, .btn:active, 
+.btn:focus, .btn:active,
 .btn:active:focus{
 	outline: none;
 	box-shadow: none;
@@ -3142,7 +3150,7 @@ span.post-author a:hover{color: #e04930;}
    font-weight: 800;
    letter-spacing: 2px;
    font-size: 12px;
-   text-transform: uppercase;  
+   text-transform: uppercase;
 }
 
 .sidebar input[type="search"]::-moz-placeholder {  /* Firefox 19+ */
@@ -3150,15 +3158,15 @@ span.post-author a:hover{color: #e04930;}
    font-weight: 800;
    letter-spacing: 2px;
    font-size: 12px;
-   text-transform: uppercase;  
+   text-transform: uppercase;
 }
 
-.sidebar input[type="search"]:-ms-input-placeholder {  
+.sidebar input[type="search"]:-ms-input-placeholder {
    color: #cccccc;
    font-weight: 800;
    letter-spacing: 2px;
    font-size: 12px;
-   text-transform: uppercase;  
+   text-transform: uppercase;
 }
 
 .contact-form ::-webkit-input-placeholder {
@@ -3168,19 +3176,19 @@ span.post-author a:hover{color: #e04930;}
 }
 
 .contact-form :-moz-placeholder { /* Firefox 18- */
-   color: #fff;  
+   color: #fff;
    font-size: 18px;
    font-family: 'PT Serif', sans-serif;
 }
 
 .contact-form ::-moz-placeholder {  /* Firefox 19+ */
-   color: #fff;  
+   color: #fff;
    font-size: 18px;
    font-family: 'PT Serif', sans-serif;
 }
 
-.contact-form :-ms-input-placeholder {  
-   color: #fff;  
+.contact-form :-ms-input-placeholder {
+   color: #fff;
    font-size: 18px;
    font-family: 'PT Serif', sans-serif;
 }
