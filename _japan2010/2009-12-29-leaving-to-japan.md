@@ -1,13 +1,14 @@
 ---
 
 layout: blog-template
-title: "Leaving to Japan"
-subHeading: "We are finally here in Japan!"
-bannerImage: https://4.bp.blogspot.com/-gzJm_aTNn1g/WCL-5JIT89I/AAAAAAAACzI/U5jOV6Im_Lg1eKt5KRZSWqUw8H8zlQm8wCLcB/s1600/IMG_3264%255B1%255D.jpg
+title: "Japan - Day 1"
+subHeading: "Arriving in Japan!"
+bannerImage: https://lh3.googleusercontent.com/NU84N6-ht_ZvwNfY3q4uPc0wusk6KScfYCxrRRulmKneemIMOMPc9ZetXAlF_OQfaoBNqJhi7azRccPkUV4VwI2V-u7w5GYNCaape6kuYa2Sl6HoIMV4c2HO42UpAqX6g1lhVy6d61F8-hdf4uhOpa7lO7NYJliBv58pWcxTuj7JBtkx7AqO4ESjtwwScl4s2xK04pfqJjqQ9JE_juPaPfk28wLm_AwPD8TB2eXzLJe6oE19R8r6OhdDW5TcrhE6Fqp5Te7_oO8mr2g246NYHDNsWySBehQII2a-KyXToy2owxcVNAP9npxNTWZ6btwnMCaW7nvB6YDzF_OjVQkyiFZlLtUUTM7O1DxF5dyoQeOImb86V0eLdjpZik-KyW4RsoQWIagPApcNrBfOcSmLWnMV81xfGtWym5JOZdFtpOiM3jLdhSjfy5evNVWtg8FMlVsYVVL0Ft_oM4y1BoAlRqctnK0dhC56MOrp2NLzxXIttOCBNl9RGcNAwoYUoCEJDLKNx9wcYBm8AhznB7U82y9tdjnw_yzVMl5PTtczVk5nSGlF_9z67C0RJwJ2lvQi_fsPtd-6IZ92QYWQ3q5mh8F4pn9fEj2kl_u4YztKUVlVQqgW=w1366-h196-no
 date: 2009-12-29
 author: Amy Parkhill
 
 ---
+We are finally here in Japan
 
 After leaving at 4 in the morning to get to the airport, we had quite a long day, with us not reaching our accommodation till about 10 pm here (which for you people in Melbourne is 12 am). The plane trip was long and Anthony slept for a little bit, i think i had 30 minutes worth.
 
