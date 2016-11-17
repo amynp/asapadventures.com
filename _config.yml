@@ -22,3 +22,7 @@ collections:
   japan2010:
     output: true
     permalink: /japan2010/:path/
+
+  singaporemalaysia2012:
+    output: true
+    permalink: /singaporemalaysia2012/:path/
