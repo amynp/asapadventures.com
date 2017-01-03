@@ -26,3 +26,7 @@ collections:
   singaporemalaysia2012:
     output: true
     permalink: /singaporemalaysia2012/:path/
+
+     adelaide2013:
+    output: true
+    permalink: /adelaide2013/:path/
