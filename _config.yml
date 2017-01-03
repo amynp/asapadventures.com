@@ -30,3 +30,7 @@ collections:
   adelaide2013:
     output: true
     permalink: /adelaide2013/:path/
+
+  hongkong2014:
+    output: true
+    permalink: /hongkong2014/:path/
