@@ -2,29 +2,28 @@
  * Initializing the plugins we use and our little functions ;-)
  * 1. Select list dropdown,
  * 2. Animation on scroll - wow.js,
- * 3. Page loading function (Preloader),
+ * 3. NOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOPE
  * 4. Function for adding sections background from html,
  * 5. Function for moving about section to watch video presentation,
  * 6. Arrow up && down functions,
  * 7. Tour page top EYE hover functions
  * 8. Gallery lightbox - magnific-popup
- * 9. Second navigation smooth scrool to div 
+ * 9. Second navigation smooth scrool to div
  * 10. Navbar fixed position
  * 11. Play youtube video
- */ 
+ */
 
 "use strict";
 var navbar = $(".navbar-default");
 var arrowUp = $('.goUp-btn');
 var arrowDown = $('.scroll-down');
 var interval = 0;
-var timeOut = setInterval(function(){preLoader();}, 2000);
 
 
-// 1. Initializing select list 
-  
+// 1. Initializing select list
+
 (function selectList() {
-	[].slice.call( document.querySelectorAll( 'select.cs-select' ) ).forEach( function(el) {	
+	[].slice.call( document.querySelectorAll( 'select.cs-select' ) ).forEach( function(el) {
 		new SelectFx(el);
 	} );
 })();
@@ -33,40 +32,16 @@ var timeOut = setInterval(function(){preLoader();}, 2000);
 // 2. Initializing wow animation on scroll
 	var wow = new WOW(
 		{
-			boxClass:     'wow',     
+			boxClass:     'wow',
 			animateClass: 'animated',
-			offset:       30,         
-			mobile:       false,      
-			live:         true,      
+			offset:       30,
+			mobile:       false,
+			live:         true,
 		}
 	)
 
-// 3. page loading function
-function preLoader(){
-			
-	if (interval == 1) {
-
-		clearInterval(timeOut);
-	
-		$('.page_load').fadeOut(1000, function(){
-			if ($('#destinations-map, #map, #road-map').length > 0){
-				initMap();	
-			}
-			
-			wow.init();
-		});
-
-		$('#page-content').addClass('loaded');
-	}
-}
 
 $(document).ready(function (){
-	//overlay interval
- 	interval = 1;    //
-
-	//add animated class
-	
-
     // 4. dinamically add background from html
 	$.each($('[data-bg]'), function(){
 	    if ($(this).attr('data-bg').length > 0){
@@ -84,10 +59,10 @@ $(document).ready(function (){
 	});
 
 	// 6.arrow up && down functions
-	$(window).on('scroll', function() {    
+	$(window).on('scroll', function() {
 	    var scroll = $(window).scrollTop() + $(window).height();
 	    var header = $('header').offset().top;
-	    
+
 	    if (scroll >= 1000) {
 	        arrowUp.addClass("visible");
 	    }else{
@@ -100,7 +75,7 @@ $(document).ready(function (){
 		    	arrowUp.removeClass('white');
 		    }
 		}
-	    
+
 	});
 	arrowUp.on('click', function(){
 	    $("html, body").animate({ scrollTop: 0 }, 600);
@@ -122,7 +97,7 @@ $(document).ready(function (){
 
 	//  8. Gallery lightbox - magnific-popup
 	$('.gallery-photos').magnificPopup({
-	  delegate: 'a', 
+	  delegate: 'a',
 	  type: 'image',
 	  gallery:{
 	    enabled:true
@@ -133,7 +108,7 @@ $(document).ready(function (){
 
 	});
 
-	// 9. Second navigation smooth scrool to div 
+	// 9. Second navigation smooth scrool to div
 	$('#second-nav a[href*=#]').on('click', function() {
 	    if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'')
 	    && location.hostname == this.hostname) {
@@ -150,7 +125,7 @@ $(document).ready(function (){
 	});
 
 	// 10. Navbar fixed position
-	$(window).on('scroll', function() {    
+	$(window).on('scroll', function() {
     		// fixed to top navbar
             var scroll = $(window).scrollTop();
     	    if (scroll >= 50) {
@@ -163,14 +138,14 @@ $(document).ready(function (){
 	$('[href="#day2-tab"]').on('click', function(){
 		if (typeof map2 == "undefined") {
 			setTimeout(function(){
-				initMap2();	
+				initMap2();
 			},10);
 		}
 	});
 	$('[href="#day3-tab"]').on('click', function(){
 		if (typeof map3 == "undefined") {
 			setTimeout(function(){
-				initMap3();	
+				initMap3();
 			},10);
 		}
 	});
@@ -182,5 +157,5 @@ var player;
 	    ev.preventDefault();
 	});
 
-	
+
 });
