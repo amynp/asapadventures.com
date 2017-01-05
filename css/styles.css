@@ -42,7 +42,6 @@ body{
 	width: 100%;
 	overflow-x: hidden;
 }
-#page-content.loaded{display: block;}
 
 h1{
 	font-weight: 900;
