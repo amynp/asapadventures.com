@@ -34,3 +34,7 @@ collections:
   hongkong2014:
     output: true
     permalink: /hongkong2014/:path/
+
+  newzealand2015:
+    output: true
+    permalink: /newzealand2015/:path/
