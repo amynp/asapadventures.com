@@ -42,3 +42,7 @@ collections:
   taiwanjapan2016:
     output: true
     permalink: /taiwanjapan2016/:path/
+
+  newzealand2017:
+    output: true
+    permalink: /newzealand2017/:path/
