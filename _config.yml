@@ -46,3 +46,7 @@ collections:
   newzealand2017:
     output: true
     permalink: /newzealand2017/:path/
+
+  hongkong2017:
+    output: true
+    permalink: /hongkong2017/:path/
