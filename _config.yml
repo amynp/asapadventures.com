@@ -19,6 +19,10 @@ sass:
   style: compressed
 
 collections:
+  blogfrontpage:
+    output: true
+    permalink: blogfrontpage/:path
+
   japan2010:
     output: true
     permalink: /japan2010/:path/

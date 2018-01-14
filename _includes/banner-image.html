@@ -1,0 +1,32 @@
+<header class="overlay" data-bg="{{ page.bannerImage }}">
+  <nav class="navbar navbar-fixed-top">
+    <div class="container">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#myMenu" aria-expanded="false">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand" href="index.html">
+          <i class="icon icon-hotairballoon"></i>
+        </a>
+      </div>
+    </div><!-- /.container -->
+  </nav>
+  <div class="header-center-content">
+    <div class="container">
+      <div class="row text-center section-intro">
+        <div class="col-md-offset-2 col-md-8">
+          <h1 class="text-uppercase animated fadeInUp">{{ page.title }}</h1>
+          <p class="animated fadeInUp">{{ page.subHeading }}</p>
+          {% if page.author != null %}
+            <span class="post-author text-uppercase">
+              by {{ page.author }} on {{ page.date | date: "%B %-d, %Y" }}
+            </span>
+          {% endif %}
+        </div>
+      </div>
+    </div>
+  </div>
+</header>
