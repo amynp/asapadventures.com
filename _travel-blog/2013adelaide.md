@@ -13,6 +13,7 @@ subHeading: Anthony, Steve, Sarma and I took a road trip to Adelaide to see the 
         <div class="overlay-lnk text-uppercase text-center">
           <i class="icon icon-streetsign"></i>
           <h5>{{ day.title }}</h5>
+          <h6>{{ day.subHeading }}</h6>
         </div>
       </a>
     </div>

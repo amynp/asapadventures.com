@@ -13,6 +13,7 @@ subHeading: My first overseas trip to the beautiful land of the rising sun. I tr
         <div class="overlay-lnk text-uppercase text-center">
           <i class="icon icon-streetsign"></i>
           <h5>{{ day.title }}</h5>
+          <h6>{{ day.subHeading }}</h6>
         </div>
       </a>
     </div>

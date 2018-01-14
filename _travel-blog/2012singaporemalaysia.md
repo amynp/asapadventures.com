@@ -13,6 +13,7 @@ subHeading: Anthony, Steve and I decided to go and visit our friend Sarma in Mal
         <div class="overlay-lnk text-uppercase text-center">
           <i class="icon icon-streetsign"></i>
           <h5>{{ day.title }}</h5>
+          <h6>{{ day.subHeading }}</h6>
         </div>
       </a>
     </div>
