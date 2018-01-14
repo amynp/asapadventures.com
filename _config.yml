@@ -19,38 +19,38 @@ sass:
   style: compressed
 
 collections:
-  blogfrontpage:
+  travelblog:
     output: true
-    permalink: blogfrontpage/:path
+    permalink: /travelblog/:path
 
   japan2010:
     output: true
-    permalink: /japan2010/:path/
+    permalink: /travelblog/japan2010/:path/
 
   singaporemalaysia2012:
     output: true
-    permalink: /singaporemalaysia2012/:path/
+    permalink: /travelblog/singaporemalaysia2012/:path/
 
   adelaide2013:
     output: true
-    permalink: /adelaide2013/:path/
+    permalink: /travelblog/adelaide2013/:path/
 
   hongkong2014:
     output: true
-    permalink: /hongkong2014/:path/
+    permalink: /travelblog/hongkong2014/:path/
 
   newzealand2015:
     output: true
-    permalink: /newzealand2015/:path/
+    permalink: /travelblog/newzealand2015/:path/
 
   taiwanjapan2016:
     output: true
-    permalink: /taiwanjapan2016/:path/
+    permalink: /travelblog/taiwanjapan2016/:path/
 
   newzealand2017:
     output: true
-    permalink: /newzealand2017/:path/
+    permalink: /travelblog/newzealand2017/:path/
 
   hongkong2017:
     output: true
-    permalink: /hongkong2017/:path/
+    permalink: /travelblog/hongkong2017/:path/
