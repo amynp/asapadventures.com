@@ -13,6 +13,7 @@ subHeading: This was our first overseas trip just the two of us. It was great.
         <div class="overlay-lnk text-uppercase text-center">
           <i class="icon icon-streetsign"></i>
           <h5>{{ day.title }}</h5>
+          <h6>{{ day.subHeading }}</h6>
         </div>
       </a>
     </div>
