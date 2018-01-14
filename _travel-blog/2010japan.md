@@ -6,7 +6,7 @@ subHeading: My first overseas trip to the beautiful land of the rising sun. I tr
 ---
 
 <div class="text-uppercase adventure-list experience">
-  {% for day in site.japan2010 %}
+  {% for day in site.blog-2010-japan %}
     <div class="col-md-6 col-sm-6 animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1s">
       <a href="{{day.url | prepend: site.baseurl}}">
         <img src="{{ day.bannerImage }}"  alt="" class="img-responsive">

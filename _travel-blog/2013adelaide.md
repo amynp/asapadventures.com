@@ -6,7 +6,7 @@ subHeading: Anthony, Steve, Sarma and I took a road trip to Adelaide to see the 
 ---
 
 <div class="text-uppercase adventure-list experience">
-  {% for day in site.adelaide2013 %}
+  {% for day in site.blog-2013-adelaide %}
     <div class="col-md-6 col-sm-6 animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1s">
       <a href="{{day.url | prepend: site.baseurl}}">
         <img src="{{ day.bannerImage }}"  alt="" class="img-responsive">

@@ -6,7 +6,7 @@ subHeading: Anthony, Steve and I decided to go and visit our friend Sarma in Mal
 ---
 
 <div class="text-uppercase adventure-list experience">
-  {% for day in site.singaporemalaysia2012 %}
+  {% for day in site.blog-2012-singapore-malaysia %}
     <div class="col-md-6 col-sm-6 animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1s">
       <a href="{{day.url | prepend: site.baseurl}}">
         <img src="{{ day.bannerImage }}"  alt="" class="img-responsive">
