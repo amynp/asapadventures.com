@@ -18,7 +18,7 @@ subHeading: Hi, Welcome to ASAP Adventures. This is a place to keep my travel ad
   </div>
 
   <div class="col-md-6 col-sm-6 animated fadeInUp" data-wow-delay="0.2s" data-wow-duration="1s">
-    <a href="{{ "travel-blogs" | absolute_url }}">
+    <a href="{{ "travel-blogs" | prepend: site.baseurl }}">
       <img src="https://lh3.googleusercontent.com/mcaTfOOwoyNS6s_B4m72K83DC6xz_1kMDBkSyvFmqY5Fril4facF6jqI-kejRxzXdNH3x1EVDtiJRkSWzMGHenCfk2UWO1w5JREfBkAfSb7vZrpD7TsgPDVXeEFj3Iskhz5X_w" alt="adventure-image" class="img-responsive">
       <div class="overlay-lnk text-uppercase text-center">
         <i class="icon icon-globe"></i>
@@ -28,7 +28,7 @@ subHeading: Hi, Welcome to ASAP Adventures. This is a place to keep my travel ad
   </div>
 
   <div class="col-md-6 col-sm-6 animated fadeInUp" data-wow-delay="0.3s" data-wow-duration="1s">
-    <a href="{{ page404.html | absolute_url}}">
+    <a href="{{ "travel-planning" | prepend: site.baseurl}}">
       <img src="http://images.travelpod.com/users/amynp/4.1325542231.marina-bay.jpg" alt="adventure-image" class="img-responsive">
       <div class="overlay-lnk text-uppercase text-center">
         <i class="icon icon-map"></i>
@@ -38,7 +38,7 @@ subHeading: Hi, Welcome to ASAP Adventures. This is a place to keep my travel ad
   </div>
 
   <div class="col-md-6 col-sm-6 animated fadeInUp" data-wow-delay="0.2s" data-wow-duration="1s">
-    <a href="{{ page404.html | absolute_url}}">
+    <a href="{{ "bucketlist" | prepend: site.baseurl}}">
       <img src="http://images.travelpod.com/users/amynp/5.1367186770.3-panda.jpg" alt="adventure-image" class="img-responsive">
       <div class="overlay-lnk text-uppercase text-center">
         <i class="icon icon-trophy"></i>

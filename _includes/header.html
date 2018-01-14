@@ -1,8 +1,22 @@
 <header class="overlay" data-bg="{{ page.bannerImage }}">
   <nav class="navbar navbar-fixed-top">
     <div class="container">
+
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#myMenu" aria-expanded="false">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand" href="{{ "index.html" | absolute_url }}">
+          <i class="icon icon-hotairballoon"></i>
+        </a>
+      </div>
+
       {% include menu.html %}
-    </div>
+
+    </div><!-- /.container -->
   </nav>
 
   <div class="header-center-content">
