@@ -10,15 +10,15 @@
     {% include favicon.html %}
 
     <link href="https://fonts.googleapis.com/css?family=PT+Serif:400,700|Raleway:300,400,700,900" rel="stylesheet">
-    <link rel="stylesheet" href="{{ "/css/plugins.css" | absolute_url }}">
-    <link rel="stylesheet" href="{{ "/css/styles.css" | absolute_url }}">
-    <link rel="stylesheet" href="{{ "/css/mediaqueries.css" | absolute_url }}">
-    <link rel="stylesheet" href="{{ "/css/fonts.css" | absolute_url }}">
+    <link rel="stylesheet" href="{{ "/css/plugins.css" | prepend: site.baseurl }}">
+    <link rel="stylesheet" href="{{ "/css/styles.css" | prepend: site.baseurl }}">
+    <link rel="stylesheet" href="{{ "/css/mediaqueries.css" | prepend: site.baseurl }}">
+    <link rel="stylesheet" href="{{ "/css/fonts.css" | prepend: site.baseurl }}">
   </head>
   <body>
     {{ content }}
 
-    <script type="text/javascript" src="{{ "/js/functions.js" | absolute_url }}"></script>
-    <script type="text/javascript" src="{{ "/js/main.js" | absolute_url }}"></script>
+    <script type="text/javascript" src="{{ "/js/functions.js" | prepend: site.baseurl }}"></script>
+    <script type="text/javascript" src="{{ "/js/main.js" | prepend: site.baseurl }}"></script>
   </body>
 </html>
