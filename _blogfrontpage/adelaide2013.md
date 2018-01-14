@@ -5,15 +5,16 @@ title: Adelaide 2013
 subHeading: Anthony, Steve, Sarma and I took a road trip to Adelaide to see the Pandas. They are so cute.
 ---
 
-{% for day in site.adelaide2013 %}
-  <div class="text-uppercase adventure-list experience">
+<div class="text-uppercase adventure-list experience">
+  {% for day in site.adelaide2013 %}
     <div class="col-md-6 col-sm-6 animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1s">
       <a href="{{day.url | prepend: site.baseurl}}">
         <img src="{{ day.bannerImage }}"  alt="" class="img-responsive">
         <div class="overlay-lnk text-uppercase text-center">
+          <i class="icon icon-streetsign"></i>
           <h5>{{ day.title }}</h5>
         </div>
       </a>
     </div>
-  </div>
-{% endfor %}
+  {% endfor %}
+</div>
