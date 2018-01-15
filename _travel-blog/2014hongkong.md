@@ -2,7 +2,7 @@
 layout: front-page-template
 bannerImage: https://lh3.googleusercontent.com/fuU2ssIKAo6k4MrvKbyhMb5dexjBgQJvZ3hmNhGHQOJk4-VQlcHzMHPe6Tz_lZlUKvvgb8ZRsiCNOJPu5H1Z3FHxlYSoF84N4SptzatAKkvxC-CvZekoDV3NETCAmNOCwOjg21Ry8Q
 title: Singapore and Hong Kong 2013/2014
-subHeading: This was our first overseas trip just the two of us. It was great. 
+subHeading: This was our first overseas trip just the two of us. Hong Kong was difficult for the first few days until you got use to the bustle, the smells and it being nowhere near as clean as Singapore. In the end Hong Kong grew on us. It was also our first trip to Hong Kong Disneyland which I completely fell in love with. 
 ---
 
 <div class="text-uppercase adventure-list experience">
