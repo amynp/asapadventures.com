@@ -28,7 +28,7 @@ done:
     date: 2014-01-06
     location: Lantau Island, Hong Kong
     blog: /travelblog/2014hongkong/2014-01-06
-    image: https://lh3.googleusercontent.com/WFNnfouR-NCNm6pW--2Xo9qT7EdchMlIWzAwXC8Jt0WgdYN9gtc9kwzUVIZP-d36L69P4mII2dlvMSrkHLNdCcZiAqz3NYrKfUPiWQVSeIQGJDLHK4G9i9s1EDpBOiWtvxR0JqAwrQ
+    image: https://lh3.googleusercontent.com/mcaTfOOwoyNS6s_B4m72K83DC6xz_1kMDBkSyvFmqY5Fril4facF6jqI-kejRxzXdNH3x1EVDtiJRkSWzMGHenCfk2UWO1w5JREfBkAfSb7vZrpD7TsgPDVXeEFj3Iskhz5X_w
 
   - name: Visit Tokyo Disneyland
     date: 2010-01-04
@@ -100,18 +100,19 @@ done:
     date: 2013-03-26
     location: Adelaide, Australia
     blog: /travelblog/2013adelaide/2013-03-26
-    image: https://lh3.googleusercontent.com/mcaTfOOwoyNS6s_B4m72K83DC6xz_1kMDBkSyvFmqY5Fril4facF6jqI-kejRxzXdNH3x1EVDtiJRkSWzMGHenCfk2UWO1w5JREfBkAfSb7vZrpD7TsgPDVXeEFj3Iskhz5X_w
+    image: https://lh3.googleusercontent.com/fAjHoixKKPbWJb4_HZtwfj8C8McNPVORF1fgwCBfJuA0x2f-qKl4qcZobmUozX2NC9ekAohICY8mvhCj9_5EzAVrjFDrsqV7TKDbO9VDQdH5mPHdORhHjuG6UmmNK4SdrkYA2LhYFA
 
   - name: Visit the Petronas Towers
     date: 2012-01-06
     location: Kuala Lumpur, Malaysia
     blog: /travelblog/2012singaporemalaysia/2012-01-06
-    image: https://lh3.googleusercontent.com/mcaTfOOwoyNS6s_B4m72K83DC6xz_1kMDBkSyvFmqY5Fril4facF6jqI-kejRxzXdNH3x1EVDtiJRkSWzMGHenCfk2UWO1w5JREfBkAfSb7vZrpD7TsgPDVXeEFj3Iskhz5X_w
+    image: https://lh3.googleusercontent.com/vCbZYFm3NhAJA-GVtK7z455dARubPGGjkwoUQTanhYzGtwkkUHL03qJ9qo52gv2aj8Ee4Y343xDczEljsJAe55ZSawhoQLJlRG63N4eclzUsEhwLnvVTLcdx8BQM4jRIt6bSdyNvmg
 
   - name: Ride an elephant
     date: 2012-01-08
     location: Pahang, Malaysia
-    blog: https://lh3.googleusercontent.com/CXMBHdqHnYW2LKln4aYrbQP8Dn7ia_muc30LZMbfXww-6OcMBL-9u0PVE9eqSDioVa0jLLEshvcyFQ-Xc897Fz_S6WBr_3rWahefSrRLd74dDR2PavGaSTEfBz0NSpeVoN3Mdjgjng
+    blog: blog: /travelblog/2012singaporemalaysia/2012-01-07
+    image:https://lh3.googleusercontent.com/CXMBHdqHnYW2LKln4aYrbQP8Dn7ia_muc30LZMbfXww-6OcMBL-9u0PVE9eqSDioVa0jLLEshvcyFQ-Xc897Fz_S6WBr_3rWahefSrRLd74dDR2PavGaSTEfBz0NSpeVoN3Mdjgjng
 
   - name: Sleep in a Ryokan
     date: 2016-01-07
@@ -135,7 +136,7 @@ done:
     date: 2012-01-03
     location: Singapore
     blog: /travelblog/2012singaporemalaysia/2012-01-03
-    image: https://lh3.googleusercontent.com/mcaTfOOwoyNS6s_B4m72K83DC6xz_1kMDBkSyvFmqY5Fril4facF6jqI-kejRxzXdNH3x1EVDtiJRkSWzMGHenCfk2UWO1w5JREfBkAfSb7vZrpD7TsgPDVXeEFj3Iskhz5X_w
+    image: https://lh3.googleusercontent.com/4qRwwQIy4zGAD_vM8wd88saui36M-sE2HPLDRi7rQMhpUyL23JyxQvjAlera29NxPo0iGO07qGHcZbjAmJGRk92_mRsx1-N1ZCv9_knLXTV4NVUq6Tx3axn6QDHWVANyTr1K26YwHA
 
 
 todo:
