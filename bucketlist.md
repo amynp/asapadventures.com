@@ -16,7 +16,7 @@ done:
     date: 2014-01-02
     location: Lantau Island, Hong Kong
     blog: /travelblog/2014hongkong/2014-01-02
-    image: https://lh3.googleusercontent.com/mcaTfOOwoyNS6s_B4m72K83DC6xz_1kMDBkSyvFmqY5Fril4facF6jqI-kejRxzXdNH3x1EVDtiJRkSWzMGHenCfk2UWO1w5JREfBkAfSb7vZrpD7TsgPDVXeEFj3Iskhz5X_w
+    image: https://lh3.googleusercontent.com/IPtIsbkOGQSRVEmT45xqeLNYdDsUtAZyu67rDWlId21CyPoJRTSx2-w5tDmq__Qi0s039GFUfkwl4zLsoaA_x1-nvZ9FpzbrDEd__E2QDavHlagYZkrOWWiAdFwZYGSCztinAqLxfA
 
   - name: Drink a flaggon of Butterbear
     date: 2016-01-05
@@ -28,25 +28,25 @@ done:
     date: 2014-01-06
     location: Lantau Island, Hong Kong
     blog: /travelblog/2014hongkong/2014-01-06
-    image: https://lh3.googleusercontent.com/mcaTfOOwoyNS6s_B4m72K83DC6xz_1kMDBkSyvFmqY5Fril4facF6jqI-kejRxzXdNH3x1EVDtiJRkSWzMGHenCfk2UWO1w5JREfBkAfSb7vZrpD7TsgPDVXeEFj3Iskhz5X_w
+    image: https://lh3.googleusercontent.com/WFNnfouR-NCNm6pW--2Xo9qT7EdchMlIWzAwXC8Jt0WgdYN9gtc9kwzUVIZP-d36L69P4mII2dlvMSrkHLNdCcZiAqz3NYrKfUPiWQVSeIQGJDLHK4G9i9s1EDpBOiWtvxR0JqAwrQ
 
   - name: Visit Tokyo Disneyland
     date: 2010-01-04
     location: Tokyo, Japan
     blog: /travelblog/2010japan/2010-01-04
-    image: https://lh3.googleusercontent.com/mcaTfOOwoyNS6s_B4m72K83DC6xz_1kMDBkSyvFmqY5Fril4facF6jqI-kejRxzXdNH3x1EVDtiJRkSWzMGHenCfk2UWO1w5JREfBkAfSb7vZrpD7TsgPDVXeEFj3Iskhz5X_w
+    image: https://lh3.googleusercontent.com/5AShn4SYycu9r8a0Q_tkkx5vf60sfuMkJvmsi8u8gz69iHq7MAW8odw1k-4szYiqZUagGjOqgT8fhM-knJnrNeuJ_H_5hOoOsBXhdD7BfENqQ0EJIZjfHU6krkSGc15Mf5z9OQ
 
   - name: Visit Tokyo Disneysea
     date: 2010-01-05
     location: Tokyo, Japan
     blog: /travelblog/2010japan/2010-01-05
-    image: https://lh3.googleusercontent.com/mcaTfOOwoyNS6s_B4m72K83DC6xz_1kMDBkSyvFmqY5Fril4facF6jqI-kejRxzXdNH3x1EVDtiJRkSWzMGHenCfk2UWO1w5JREfBkAfSb7vZrpD7TsgPDVXeEFj3Iskhz5X_w
+    image: https://lh3.googleusercontent.com/4M-8dTauUjhuT4g6ikptUxjkWjbyCIGy8c6okksbVZCb9NCpd8nn7HcF6sAHQbgjhWMRp0sCQdFunYElwUbs4NtDLuYaLESxJwMvmzRXx-Qa8JpbzPaGVhm-0VIs4ypmRah7lA
 
   - name: See fireflies
     date: 2012-01-07
     location: Kuala Selangor, Malaysia
     blog: /travelblog/2012singaporemalaysia/2012-01-07
-    image: https://lh3.googleusercontent.com/mcaTfOOwoyNS6s_B4m72K83DC6xz_1kMDBkSyvFmqY5Fril4facF6jqI-kejRxzXdNH3x1EVDtiJRkSWzMGHenCfk2UWO1w5JREfBkAfSb7vZrpD7TsgPDVXeEFj3Iskhz5X_w
+    image: https://lh3.googleusercontent.com/Q6ERWvne5pqvMC4HTUTxNd_yK6Mi53uywRzz-8BU-s_SsegdQi7Q_3W6m1JalJku_9PR1Zn8L84qU_7IAU-BS5QXBdV55mcjRv6M0jshBE6IgVb981vhs6Df3LLIogz5dvCQHgLfog
 
   - name: Release a lantern
     date: 2016-01-03
@@ -111,8 +111,7 @@ done:
   - name: Ride an elephant
     date: 2012-01-08
     location: Pahang, Malaysia
-    blog: /travelblog/2012singaporemalaysia/2012-01-08
-    image: https://lh3.googleusercontent.com/mcaTfOOwoyNS6s_B4m72K83DC6xz_1kMDBkSyvFmqY5Fril4facF6jqI-kejRxzXdNH3x1EVDtiJRkSWzMGHenCfk2UWO1w5JREfBkAfSb7vZrpD7TsgPDVXeEFj3Iskhz5X_w
+    blog: https://lh3.googleusercontent.com/CXMBHdqHnYW2LKln4aYrbQP8Dn7ia_muc30LZMbfXww-6OcMBL-9u0PVE9eqSDioVa0jLLEshvcyFQ-Xc897Fz_S6WBr_3rWahefSrRLd74dDR2PavGaSTEfBz0NSpeVoN3Mdjgjng
 
   - name: Sleep in a Ryokan
     date: 2016-01-07
