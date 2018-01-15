@@ -64,7 +64,7 @@ done:
     date: 2017-04-07
     location: Mt Cook, New Zealand
     blog: /travelblog/2017newzealand/2017-04-07
-    image: https://lh3.googleusercontent.com/mcaTfOOwoyNS6s_B4m72K83DC6xz_1kMDBkSyvFmqY5Fril4facF6jqI-kejRxzXdNH3x1EVDtiJRkSWzMGHenCfk2UWO1w5JREfBkAfSb7vZrpD7TsgPDVXeEFj3Iskhz5X_w
+    image: https://lh3.googleusercontent.com/f9weKgHR3rgTlHCSs6tcBSosDMYiVUqX5kNoWAs1_RZUrFsSm27c3MV2u8igdqlDmQM10NL99bF-T-fqzmBIittSv2Pxh5FixeGlXMicWPbE0_YTdoRNR8UmCXaldowk7-_bzQuSuQ
 
   - name: See glowworms
     date: 2015-04-05
