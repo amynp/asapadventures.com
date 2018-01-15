@@ -111,7 +111,7 @@ done:
   - name: Ride an elephant
     date: 2012-01-08
     location: Pahang, Malaysia
-    blog: blog: /travelblog/2012singaporemalaysia/2012-01-07
+    blog: /travelblog/2012singaporemalaysia/2012-01-07
     image:https://lh3.googleusercontent.com/CXMBHdqHnYW2LKln4aYrbQP8Dn7ia_muc30LZMbfXww-6OcMBL-9u0PVE9eqSDioVa0jLLEshvcyFQ-Xc897Fz_S6WBr_3rWahefSrRLd74dDR2PavGaSTEfBz0NSpeVoN3Mdjgjng
 
   - name: Sleep in a Ryokan
