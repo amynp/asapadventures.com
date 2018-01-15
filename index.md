@@ -9,7 +9,7 @@ subHeading: Hi, Welcome to ASAP Adventures. This is a place to keep my travel ad
 
   <div class="col-md-6 col-sm-6 animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1s">
     <a href="https://www.instagram.com/asapadventures_food/">
-      <img src="https://low-carb-support.com/wp-content/uploads/2012/07/low-carb-food-300.jpg" alt="adventure-image" class="img-responsive">
+      <img src="https://lh3.googleusercontent.com/Hd3dpFwKrQxahUIOSnCT9JkhNhHKnW407BmNmGJxEqIBkf5noZO8b21E7IjV4tTOXbxWRkzBm7tvRSYaIfEd9aQ4Xxz_nQ8-OIGVBvTzn9158uTOeuI9FjiNhmxsUGYLX52vmzMbTA" alt="adventure-image" class="img-responsive">
       <div class="overlay-lnk text-uppercase text-center">
         <i class="icon icon-wine"></i>
         <h5>Adventures with Food</h5>
