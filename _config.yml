@@ -46,4 +46,8 @@ collections:
 
   blog-2017-hong-kong:
     output: true
-    permalink: /travelblog/2017hongkong/:path/
+    permalink: /travelblog/2017hongkong/:path
+
+  blog-2018-singapore-hong-kong:
+    output: true
+    permalink: /travelblog/2018singaporehongkong/:path/
