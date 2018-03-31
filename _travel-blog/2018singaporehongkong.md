@@ -1,6 +1,6 @@
 ---
 layout: front-page-template
-bannerImage: https://lh3.googleusercontent.com/JltVBFGyDft9RVUu6K7JXNy1Z8QqU0stqffV6CWM1rNnUPdBlKoCVYYk_z07C9o8uh61IU-qAuGnRUHCnWHVYb5LJdDStFEDcr7HQfS7MLN9VLKpoANS7qxjAJQgTOsPmjK-O32Trw
+bannerImage: https://lh3.googleusercontent.com/fxcg_YYLEC7asHtYkP3ew-YCAN1R4YhenUdzi5e5MYz6bvVbClUEp3s3tJdOlAnDhNrqk90u0EhcbfRSab0DbjR28KK6On3Dhud_O0SuIE_9K-SXGnXdK_3_FI7S5aSxYEUKYaZAIA
 title: Singapore / HongKong 2018
 subHeading: 
 ---
