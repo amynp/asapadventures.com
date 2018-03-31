@@ -1,12 +1,12 @@
 ---
 layout: front-page-template
-bannerImage: 
-title: New Zealand 2017
+bannerImage: https://lh3.googleusercontent.com/JltVBFGyDft9RVUu6K7JXNy1Z8QqU0stqffV6CWM1rNnUPdBlKoCVYYk_z07C9o8uh61IU-qAuGnRUHCnWHVYb5LJdDStFEDcr7HQfS7MLN9VLKpoANS7qxjAJQgTOsPmjK-O32Trw
+title: Singapore / HongKong 2018
 subHeading: 
 ---
 
 <div class="text-uppercase adventure-list experience">
-  {% for day in site.blog-2017-new-zealand %}
+  {% for day in site.blog-2018-singapore-hongkong %}
     <div class="col-md-6 col-sm-6 animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1s">
       <a href="{{day.url | prepend: site.baseurl}}">
         <img src="{{ day.bannerImage }}"  alt="" class="img-responsive">
