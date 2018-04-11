@@ -1905,7 +1905,7 @@ p.subscribe-text{
 	height: 240px;
 	background-size: 100%;
 	background-repeat: no-repeat;
-	background-position: 0% -110px;
+	background-position: top center;
 	background-attachment: fixed;
 }
 .blog-page header.overlay:before{background: rgba(47, 55, 60, 0.5);}
