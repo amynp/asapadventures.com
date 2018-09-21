@@ -3,6 +3,7 @@ layout: front-page-template
 bannerImage: https://lh3.googleusercontent.com/c9WTI6nLdI0t27urgJ6AH85tNfID56HNlXo3MsFsuAAjgPNOhtrbAAe6pBf8kPR9WIrCXiO_OQfqaPTHh_Eqpw4SiAqZ23GmBhx-7yU5Qe48B20VPklGACmG6yXNTyHoKBaEPjwZIQ=w2400
 title: Hong Kong 2017
 subHeading: 
+skipfeed: true
 ---
 
 <div class="text-uppercase adventure-list experience">

@@ -1,11 +1,13 @@
 title: ASAPAdventures
 baseurl: ''
 url: 'http://asapadventures.com'
+author: 'Amy Sellitti'
 
 markdown: kramdown
 relative_permalinks: false
 permalink: :title/
-plugins: [jekyll-paginate]
+plugins:
+  - jekyll-paginate
 
 sass:
   sass_dir: _sass

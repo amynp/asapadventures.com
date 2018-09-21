@@ -3,6 +3,7 @@ layout: front-page-template
 bannerImage: https://lh3.googleusercontent.com/7jgNISMXQevCQ4pmeSyPpLuxmxPkNFmL-0oYaQPOtekbbolU8BBrc8bxoMcxzUNTl5ahcHKRqCsn-eLrgQ0d-YaTEg_nkSkCsUAu1gFUxuUyFJG_s4lkG2qqmEcwJHlQcvCxyBm3Ug=w2400
 title: New Zealand 2017
 subHeading: 
+skipfeed: true
 ---
 
 <div class="text-uppercase adventure-list experience">
