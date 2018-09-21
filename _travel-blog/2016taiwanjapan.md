@@ -3,6 +3,7 @@ layout: front-page-template
 bannerImage: https://lh3.googleusercontent.com/xPzJEoAiq4TPFHPlvo20IFHXXtFLS-1RjPg9KqE3ZVSwRCXRoejFggRntSyuQmhIfciwYW3Y-_mFWe7L44aKi_08Un1w-lNU7KWgCVDhYTr6k8Ygi461ktrMsIHs8mSfTRzxWPpL7Q=w2400
 title: Taiwan and Japan 2016/2017
 subHeading: 
+skipfeed: true
 ---
 
 <div class="text-uppercase adventure-list experience">

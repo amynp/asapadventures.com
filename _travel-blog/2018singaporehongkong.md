@@ -3,6 +3,7 @@ layout: front-page-template
 bannerImage: https://lh3.googleusercontent.com/OVAIqgkbAz8xleDfx_SnK6ozz9ygbaCVBDJGG5eu6P48Rx9DWujOu8kWZhXujnghie_429z_U0HnHm1jpbbStae3deJyj0GSX7e9ABPm_pkUjie9qnJ_-HMmbTtiM_fB4E95ZLRspw=w2400
 title: Singapore / HongKong 2018
 subHeading: 
+skipfeed: true
 ---
 
 <div class="text-uppercase adventure-list experience">
