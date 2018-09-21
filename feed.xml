@@ -41,7 +41,17 @@ layout: null
       <published>{{ post.date | date_to_xmlschema }}</published>
       <updated>{{ post.last_modified_at | default: post.date | date_to_xmlschema }}</updated>
       <id>{{ post.id | absolute_url | xml_escape }}</id>
-      <content type="html" xml:base="{{ post.url | absolute_url | xml_escape }}">{{ post.excerpt | strip_html | normalize_whitespace | xml_escape }}</content>
+      <content type="html" xml:base="{{ post.url | absolute_url | xml_escape }}">
+        {% assign post_image = post.bannerImage %}
+        {% if post_image %}
+          {% unless post_image contains "://" %}
+            {% assign post_image = post_image | absolute_url %}
+          {% endunless %}
+          <img src="{{ post_image | xml_escape }}" title="{{ post.title }}"/>
+        {% endif %}
+        {{ post.excerpt | strip_html | normalize_whitespace | xml_escape }}
+        <a href="{{ post.url | absolute_url }}">Read more</a>
+      </content>
 
       {% assign post_author = post.author | default: post.authors[0] | default: site.author %}
       {% assign post_author = site.data.authors[post_author] | default: post_author %}
@@ -59,11 +69,7 @@ layout: null
         {% endif %}
       </author>
 
-      {% assign post_image = post.bannerImage %}
       {% if post_image %}
-        {% unless post_image contains "://" %}
-          {% assign post_image = post_image | absolute_url %}
-        {% endunless %}
         <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="{{ post_image | xml_escape }}" />
       {% endif %}
     </entry>
