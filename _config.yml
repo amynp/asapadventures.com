@@ -53,3 +53,7 @@ collections:
   blog-2018-singapore-hong-kong:
     output: true
     permalink: /travelblog/2018singaporehongkong/:path/
+
+  blog-2018-japan:
+    output: true
+    permalink: /travelblog/2018japan/:path/
