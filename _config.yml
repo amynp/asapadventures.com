@@ -57,3 +57,7 @@ collections:
   blog-2018-japan:
     output: true
     permalink: /travelblog/2018japan/:path/
+
+    blog-2019-canberra:
+    output: true
+    permalink: /travelblog/2019canberra/:path/
