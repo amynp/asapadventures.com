@@ -138,6 +138,11 @@ done:
     blog: /travelblog/2012singaporemalaysia/2012-01-03
     image: https://lh3.googleusercontent.com/4qRwwQIy4zGAD_vM8wd88saui36M-sE2HPLDRi7rQMhpUyL23JyxQvjAlera29NxPo0iGO07qGHcZbjAmJGRk92_mRsx1-N1ZCv9_knLXTV4NVUq6Tx3axn6QDHWVANyTr1K26YwHA
 
+  - name: Visit the Golden Pavillion
+    date: 2018-10-05
+    location: Kyoto
+    blog: /travelblog/2018japan/2018-10-05
+    image: https://lh3.googleusercontent.com/c8vAY1uEhBog2byrGCVahxVMQHQnpxe7Qm-6dgKDYSXQrv3jQ6h4cYVVk7T2aQbQQkOCWfl_80E7jXIAcI5w3vZ4wU4KkN6-9-jrLDlXnRTOFXFmOcLS76dI-Huia9NlNuiFXObHwD0=w2400
 
 todo:
   - name: Swim with a platypus
@@ -152,7 +157,6 @@ todo:
   - name: Visit Paris Disneyland
   - name: Visit California Disneyland
   - name: Visit Florida Disneyworld
-  - name: Visit the Golden Pavilion
   - name: Swim in the Great Barrier Reef
   - name: Walk on the Great Wall of China
   - name: See a lantern festival
