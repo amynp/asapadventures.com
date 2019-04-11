@@ -185,7 +185,7 @@ todo:
   - name: See the Berlin Wall
   - name: Go to Harry Potter Studios
   - name: Go to Disneyland at Halloween
- ---
+---
 
 <div class="row">
   <div class="text-uppercase adventure-list experience">
