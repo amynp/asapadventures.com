@@ -2471,6 +2471,32 @@ span.post-author a:hover{color: #e04930;}
 	box-shadow: 0 0 0 2px #e04930;
 }
 
+.guides-content section {
+  display: flex;
+}
+
+.guides-content section img {
+  max-width: 385px;
+  max-height: 270px;
+  width: auto;
+  height: auto;
+  object-fit: contain;
+  object-position: top;
+}
+
+.guides-content section:nth-child(odd) {
+  flex-direction: row-reverse;
+}
+
+.guides-content section:nth-child(odd) p {
+  margin-left: 10px
+}
+
+.guides-content section:nth-child(even) p {
+  margin-right: 10px
+}
+
+
 /*************************************************************************************************
 										 Blog Post Page ENDS
 **************************************************************************************************/
