@@ -14,6 +14,14 @@ sass:
   style: compressed
 
 collections:
+  travel-guides:
+    output: true
+    permalink: /travelguides/:path
+
+  guide-japan:
+    output: true
+    permalink: /travelguides/japan/:path
+
   travel-blog:
     output: true
     permalink: /travelblog/:path
