@@ -35,7 +35,16 @@ Even though Hiroshima and Miyajima are a long day trip from Japan it is one wort
 
 <section>
     <p>
-        From the end of the bridge is the Hiroshima Peace Park. It is free to look around in here and it has a few memorials. The Kids Peace Park was a symbol of hope and it is where all the cranes that are sent to the park are kept in honor of Sadako Sasaki the little girl who wanted to make 1000 cranes before she died. 
+        From the end of the bridge is the Hiroshima Peace Park. It is free to look around in here and it has a few memorials. The Kids Peace Park was a symbol of hope and it is where all the cranes that are sent to the park are kept in honor of Sadako Sasaki the little girl who wanted to make 1000 cranes before she died. This area also has the peace flame. You probably can see most of the things here in 30-40 minutes. 
     </p>
     <div class="center-image"><img src="https://lh3.googleusercontent.com/h5n_BhPXhmtJW8AwkPPBIMKfQwm21C1yBq8OokGK9iExox5btC7lViqcGNwXg-czCrCvbSWe9WLCB-VMpc-B0FasGsOi_Vb0HROvZcsGjgLW9tV9Q69dIm__2UwNbahpmkiCvUdi3ss=w2400" /></div>
 </section>
+
+
+<section>
+    <p>
+        Next head over the Hiroshima Peace Memorial Museum. The Museum is open from 8:30am to 6pm everyday and costs ¥200. This Museum shows what happened during the bombings and the after effects of Radiation. From a history point of view it is a great museum however some of the things in the museum are hard to see and very upsetting. The Museum represents a very neutral view on the war and the bombings and is worth the visit.  
+    </p>
+    <div class="center-image"><img src="https://lh3.googleusercontent.com/uVY3cHMHcr3yIwBTf7KOFcCroQMqOQn3nh8yDR3Ns-ChmgoBpBVDqTYX2LoJku3VmBrkMD2cYnU7d7j_Zm3QmkQFNg4EQyhc5oqzxpz-lvIEXF7l-sEUI4104wsRVVw3U5L0klQNsC0=w2400" /></div>
+</section>
+
