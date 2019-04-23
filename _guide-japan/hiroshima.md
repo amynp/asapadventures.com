@@ -48,3 +48,17 @@ Even though Hiroshima and Miyajima are a long day trip from Japan it is one wort
     <div class="center-image"><img src="https://lh3.googleusercontent.com/uVY3cHMHcr3yIwBTf7KOFcCroQMqOQn3nh8yDR3Ns-ChmgoBpBVDqTYX2LoJku3VmBrkMD2cYnU7d7j_Zm3QmkQFNg4EQyhc5oqzxpz-lvIEXF7l-sEUI4104wsRVVw3U5L0klQNsC0=w2400" /></div>
 </section>
 
+
+<section>
+    <p>
+        After the Peace park you could head into Hiroshima city. Grab some lunch and have a relax in the town. The town of Hiroshima is pretty cool. A good place to go for lunch would be Okonomi-mura which has heaps of the famous Japanese pancakes. Next you want to take the boat to Miyajima. The closest boat is the one that leaves from the Peace Park. It leaves 1-2 times an hour and takes 45 minutes. It costs ¥2000. The other option for the boat is to use your JR pass and travel back and take the Ferry from Miyajimaguchi Station. This is a little more complicated. 
+    </p>
+    <div class="center-image"><img src="https://www.aqua-net-h.co.jp/heritage/img/slide-kagura.jpg" /></div>
+</section>
+
+<section>
+    <p>
+        Arriving in Miyajima you will see lots of Deer roaming the beach and streets. These deer will attempt to eat any food, rubbish or cans in your hands. The main shopping strip of Miyajima is on the way to the temple. There are heaps of shops selling snacks, food and souvenirs. It is a lovely place to have a shop around.  
+    </p>
+    <div class="center-image"><img src="https://lh3.googleusercontent.com/K6UHLtYbTC2pNJrM2ItRSmzf9CNgVk9FyhS1uFRL79DDIFQpnEdaK3MoCx7PcSNfomrXoZzpjOYDqcWzr-u9MGtzbBvGSyLzBT3LzVSsrRqwwwhlh4FtbXItTP4xZIXLDnkK4m-J4vQ=w2400" /></div>
+</section>
