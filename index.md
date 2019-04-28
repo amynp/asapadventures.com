@@ -21,7 +21,7 @@ subHeading: Hi, Welcome to ASAP Adventures. This is a place to keep my travel ad
       <img src="https://lh3.googleusercontent.com/rqRV-B5D3FquKSg5dN9BUCgUSGcOcno7q5FaXWOiY1N6L9WN7y3YPuJibtIMBbkdKj3aFEwQ8KhwuXnssnAj2jIu-P8MGvMuMKu3nN82DtgGWFibkOQ98CYpmbLMMA9FXtz5tXhp-VE=w2400">
       <div class="overlay-lnk text-uppercase text-center">
         <i class="icon icon-map"></i>
-        <h5>Travel Planning</h5>
+        <h5>Travel Guides</h5>
       </div>
     </a>
   </div>
@@ -56,3 +56,6 @@ subHeading: Hi, Welcome to ASAP Adventures. This is a place to keep my travel ad
     </a>
   </div>
 </div>
+
+
+<a href="https://www.patreon.com/bePatron?u=19450030" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
