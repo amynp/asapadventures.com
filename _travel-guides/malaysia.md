@@ -1,7 +1,7 @@
 ---
 layout: front-page-template
 bannerImage: https://lh3.googleusercontent.com/oXKNvUu2fQkpDXUdbs30ope9bwSwNSXxcaA_Vyt0si5atd9gnQpvAUTqtH8rRZh_w0vsPUVD0aw1O137-y1EzzOTDA62hEmC6lMkZGx4w7HHVLiwb1IGs5enX8Is8VBZ0Zg8j0jQQ9s=w2400
-subHeading:
+subHeading: something someting darkside
 skipfeed: true
 ---
 
