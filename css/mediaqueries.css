@@ -647,6 +647,27 @@
 
 	/* contact.hrml */
 	.contact-page .contacts-section{padding-bottom: 60px;}
+
+	.guides-content section {
+		flex-direction: column;
+	}
+
+	.guides-content section img {
+		max-width: initial;
+		max-height: initial;
+	}
+
+	.guides-content section:nth-child(odd) {
+		flex-direction: column;
+	}
+
+	.guides-content section:nth-child(odd) p {
+		margin-left: 0px;
+	}
+
+	.guides-content section:nth-child(even) p {
+		margin-right: 0px;
+	}
 }
 
 

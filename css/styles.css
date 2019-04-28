@@ -2473,6 +2473,7 @@ span.post-author a:hover{color: #e04930;}
 
 .guides-content section {
   display: flex;
+  flex-direction: row;
 }
 
 .guides-content section img {
