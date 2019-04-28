@@ -1,6 +1,6 @@
 ---
 layout: front-page-template
-bannerImage: https://lh3.googleusercontent.com/n6_Q0e_n0WtSa9lz7VI2bKNBq7-acsUimYI_Tsz30y5_4S0yICQRhZkec8cOFb01Et1zdzaeL4Skbak3jmommtnTYAFu21ZMY9XBs1qydKSm8PZw5BRu3sU1L1_3hvPsbMfYO8tXHQ
+bannerImage: https://lh3.googleusercontent.com/szHU97veFP1LM1U1xA8CV7ORxbHWNl-DMW8yGMMdnMARCj9J73tYx98IfiswT987VNlY4Z5oyLlqFjV7ZfyPruboQGqqAuK3QSyRMjP1phfn-4-7y97yshtDUL8bbAbxD09bdKXrwoc=w2400
 title: My Travel Guides
 subHeading: Something something dark side
 ---
