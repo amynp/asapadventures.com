@@ -62,3 +62,23 @@ Even though Hiroshima and Miyajima are a long day trip from Japan it is one wort
     </p>
     <div class="center-image"><img src="https://lh3.googleusercontent.com/K6UHLtYbTC2pNJrM2ItRSmzf9CNgVk9FyhS1uFRL79DDIFQpnEdaK3MoCx7PcSNfomrXoZzpjOYDqcWzr-u9MGtzbBvGSyLzBT3LzVSsrRqwwwhlh4FtbXItTP4xZIXLDnkK4m-J4vQ=w2400" /></div>
 </section>
+
+<section>
+    <p>
+        After some shopping and deer viewing you want to head along the beach to the actual shrine. Itsukushima Shrine is a beautiful complex. Depending on the time of day and the tide the Torii gate will be 'floating' in the water or you will be able to walk out to the gate. This gate is UNESCO World Heritage listed and one of the top sights in Japan. 
+    </p>
+    <div class="center-image"><img src="https://lh3.googleusercontent.com/fIhh6B84t-4iW--6quFokipQl6RuUaA_llLBjqDAByplu4zHTgmwexZ1PY_GE07MgvigpmrExKCnQcYSjMRY4EqnAuvb7cP26EEq36vQQV7ugADPkt-KhpLM2dMlJSY1xaTpYEeoPwc=w2400" /></div>
+</section>
+
+<section>
+    <p>
+        Itsukushima Shrine costs ¥300 to enter. It is worth walking around and seeing the Shrine. The buildings are beautiful and you can get a great view of the gate from the shrine. It will be getting late around now so walk around and head back to the gate for sunset. 
+    </p>
+    <div class="center-image"><img src="https://lh3.googleusercontent.com/byhtQ3Cnvub8XUqFqnD5jWYUe9pMCNi5Y_5gGIdE_jOMvRC2l5ziC_qTOD-_m3k5SJ25eb2HvDcFgGqAzyCq2uDlJWEw1zlm1AOW4A9zavXqRoNaBYMb4bwWxrGeOnScsBA3ajKARzA=w2400" /></div>
+</section>
+
+<section>
+    <p>
+        Take in the beautiful sunset in the area around the shrine. Everything will be closing up now so it is time to head back to Osaka or Kyoto. Take the JR boat from Miyajima Pier across to Miyajimaguchi Station and then jump of the Shinkansen back to your accomodation.    </p>
+    <div class="center-image"><img src="https://lh3.googleusercontent.com/_SW3sHKvpy6wRdafgLx-TZbqZhcUV2y9blQhDemyHt_imy8GKf66pyueMbwk_g5RpnBP6KrTSUEpY4zNt6VDHp0zmtnjbyCXEQTymxyr8b4m6l91BR-2ATN8iW2WctiFMyfQwy7BgWA=w2400" /></div>
+</section>
