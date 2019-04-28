@@ -208,6 +208,9 @@ input:focus{
 	visibility: visible;
 	margin-left: 0;
 }
+.navbar-brand img {
+  width: 36px;
+}
 
 .navbar-fixed-top .navbar-nav{
 	width: auto;
