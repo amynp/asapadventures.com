@@ -40,17 +40,17 @@ subHeading: Hi, Welcome to ASAP Adventures. This is a place to keep my travel ad
     <a href="https://www.instagram.com/asapadventurestravel/">
       <img src="https://lh3.googleusercontent.com/KhhdH07ep9mXyg__g34Wsafgj_d1347_ZCyVKLYfkoKbG_JkN5FWIObxkp4FBDK6_3M2cwrNggbps8olVKo6i7WIOX1vsNLpjiRYIE46IdM_lZwTQcBWCrnPbrSMdfiel2eEQblLIrg=w2400" alt="adventure-image" class="img-responsive">
       <div class="overlay-lnk text-uppercase text-center">
-        <i class="icon icon-wine"></i>
+        <i class="icon icon-camera"></i>
         <h5>Travel Photo's</h5>
       </div>
     </a>
   </div>
 
   <div class="col-md-6 col-sm-6 animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1s">
-    <a href="https://www.redbubble.com/people/asapadventures?asc=u">
+    <a href="https://www.redbubble.com/people/asapadventures/shop?asc=u">
       <img src="https://lh3.googleusercontent.com/7W6EKefPpKG1Qo2f81CPxaBwm1qi1hrFOEv2VZBnFb5MT7kvqIjTQwLzirRJIrjmnb7tFK5l31iw7ZLYFBC5bB_tRbyPrWMv7vBNd9Hvlure5ulwoGojM-76VWs1ZxVhhNBANS96hfI=w2400">
       <div class="overlay-lnk text-uppercase text-center">
-        <i class="icon icon-wine"></i>
+        <i class="icon icon-wallet"></i>
         <h5>Red Bubble Store</h5>
       </div>
     </a>
