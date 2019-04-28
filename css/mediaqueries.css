@@ -5,20 +5,20 @@
     Version: 1.0
     Author: Themes Dojo
 
-    TABLE OF CONTENTS 
+    TABLE OF CONTENTS
     ---------------------------
-    
+
      1.  SmartPhones (portrait)
      2.  SmartPhones (landscape)
 	 3.  Tablets/iPads (portrait)
 	 4.  Tablets/iPads (landscape)
-     
+
 */
 
 
 /*********** 1.  SmartPhones **************/
-@media only screen and (min-device-width: 320px) and (max-device-height: 736px) and (orientation : portrait) {
-	
+@media only screen and (max-width: 749px) and (orientation : portrait) {
+
 	/*** index.html ***/
 
 	/*button Menu*/
@@ -72,7 +72,7 @@
 	.navbar-fixed-top .navbar-brand{padding: 15px;}
 	.navbar-fixed-top .navbar-toggle.collapsed{border-color: #e04930;}
 	.navbar-fixed-top .navbar-toggle{border-color: #e04930;}
-	.navbar-fixed-top .navbar-toggle.collapsed span{background-color: #e04930 !important;} 
+	.navbar-fixed-top .navbar-toggle.collapsed span{background-color: #e04930 !important;}
 	.navbar-fixed-top .navbar-toggle span{background-color: #e04930 !important;}
 
 	/* main menu */
@@ -99,7 +99,7 @@
 	.navbar-fixed-top .navbar-nav>li>a{color: #fff !important;}
 	.navbar-fixed-top .navbar-collapse{top: 55px;}
 	.navbar-default .navbar-nav>li.active>a{color: #fff !important;}
-	
+
 	/* elements */
 	.header-center-content h1{letter-spacing: 5px;}
 	.goUp-btn{display: none;}
@@ -133,7 +133,7 @@
 	}
 	.destination-select.cs-skin-elastic > span::before{left: 25px;}
 
-	 
+
 	.scroll-down{display: none;}
 	.country-list li{margin: 0 10px;}
 	.section-intro{
@@ -165,8 +165,8 @@
 		width: 250px;
 	}
 	.posts-list li:last-child{margin-right: 5px;}
-	.contacts-section{ 
-		height: 100%; 
+	.contacts-section{
+		height: 100%;
 		padding-bottom: 20px;
 	}
 	.contacts-section .book-btn{margin: 0 0 10px 0;}
@@ -368,7 +368,7 @@
 	}
 }
 
-@media only screen and (min-device-width: 320px) and (max-device-height: 736px) and (orientation : landscape){
+@media only screen and (max-width: 749px) and (orientation : landscape){
 
 	/*** index.html ***/
 	.navbar{padding-top: 5px;}
@@ -424,7 +424,7 @@
 	.navbar-fixed-top .navbar-brand{padding: 10px 15px;}
 	.navbar-fixed-top .navbar-toggle.collapsed{border-color: #e04930;}
 	.navbar-fixed-top .navbar-toggle{border-color: #fff;}
-	.navbar-fixed-top .navbar-toggle.collapsed span{background-color: #e04930 !important;} 
+	.navbar-fixed-top .navbar-toggle.collapsed span{background-color: #e04930 !important;}
 	.navbar-fixed-top .navbar-toggle span{background-color: #fff !important;}
 
 	/* main menu */
@@ -628,7 +628,7 @@
 		float: left;
 	}
 	.team-member{height: 340px;}
-	
+
 	/* blog-page & blog-post-page */
 	.blog-page header{
 		height: 100vh;
@@ -696,8 +696,8 @@
 
 /*********** 3.  Tablets **************/
 /* portratit mode */
-@media only screen and (min-device-width: 768px) and (max-device-width: 1280px) and (orientation: portrait) {
-	
+@media only screen and (min-width: 750px) and (orientation: portrait) {
+
 	/*** index.html ***/
 	.select-options .search-btn{right: 3px;}
 	.country-list li{
@@ -781,7 +781,7 @@
 	.about-tabs .tab-title{top: 250px;}
 	.about-tabs-control .nav-tabs li a:before{display: none;}
 	.about-tabs-control .nav-tabs li a{padding: 0 55px;}
-	
+
 	.category{margin-top: 60px;}
 	.member-socials{padding: 0;}
 	.about-video-bg{width: calc((100vw - 750px)/2 + 760px - 195px);}
@@ -815,7 +815,7 @@
 }
 
 /* landscape mode */
-@media only screen and (min-device-width: 768px) and (max-device-width: 1280px) and (orientation: landscape) {
+@media only screen and (min-width: 750px) and (orientation: landscape) {
 
 	/* index.html */
 	.select-options .search-btn{right: -2px;}
@@ -887,15 +887,15 @@
 		text-align: center;
 	}
 	.gallery-photos li{float: none;}
-		
+
 	/* about.html */
 	.about-tabs .tab-bg{height: 555px;}
 
 }
 
 /* ----------- MacBoock 13' ----------- */
-@media only screen and (min-device-width: 1024px) and (max-height: 660px) { 
-	
+@media only screen and (min-width: 1200px) {
+
 	/* index.html */
 	.select-options .search-btn{right: -4px;}
 	.author-quote{padding: 30px;}
