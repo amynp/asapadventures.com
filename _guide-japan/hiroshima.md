@@ -1,7 +1,7 @@
 ---
 layout: guide-template
 title: Hiroshima and Miyajima
-subHeading: 
+subHeading: Hiroshima and Miyajima are an easy day trip from Osaka and Kyoto. Both places are full of history beauty and amazing places to spend time.
 bannerImage: https://lh3.googleusercontent.com/dBEMIulzObD3xlTl9VCSy1OFzstabMMD86ENmKHC3dUwfrAFsQcSsAheTPwWrKBCKrxXBoCprXUCRn2TsfScgKKebxovdn7_G15Vb6KAXY-dIEmrZMh8uDkKHdBEpA2ec_G5T6zYlA=w2400
 author: Amy Sellitti
 comments: true
