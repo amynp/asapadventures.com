@@ -4,7 +4,8 @@ bannerImage: https://lh3.googleusercontent.com/ITe3uqVNFyan_SxYt6anf_WTk-xCLGydb
 title: ASAP Adventures
 subHeading: Hi, Welcome to ASAP Adventures. This is a place to keep my travel adventures and also my adventures with food!  So come in and have a look around.
 ---
-
+<div class="text-uppercase adventure-list experience">
+  
   <div class="col-md-6 col-sm-6 animated fadeInUp" data-wow-delay="0.2s" data-wow-duration="1s">
     <a href="/travelblog">
       <img src="https://lh3.googleusercontent.com/mcaTfOOwoyNS6s_B4m72K83DC6xz_1kMDBkSyvFmqY5Fril4facF6jqI-kejRxzXdNH3x1EVDtiJRkSWzMGHenCfk2UWO1w5JREfBkAfSb7vZrpD7TsgPDVXeEFj3Iskhz5X_w" alt="adventure-image" class="img-responsive">
@@ -35,9 +36,6 @@ subHeading: Hi, Welcome to ASAP Adventures. This is a place to keep my travel ad
     </a>
   </div>
 
-
-<div class="text-uppercase adventure-list experience">
-
   <div class="col-md-6 col-sm-6 animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1s">
     <a href="https://www.instagram.com/asapadventurestravel/">
       <img src="https://lh3.googleusercontent.com/KhhdH07ep9mXyg__g34Wsafgj_d1347_ZCyVKLYfkoKbG_JkN5FWIObxkp4FBDK6_3M2cwrNggbps8olVKo6i7WIOX1vsNLpjiRYIE46IdM_lZwTQcBWCrnPbrSMdfiel2eEQblLIrg=w2400" alt="adventure-image" class="img-responsive">
@@ -47,8 +45,6 @@ subHeading: Hi, Welcome to ASAP Adventures. This is a place to keep my travel ad
       </div>
     </a>
   </div>
-
-  <div class="text-uppercase adventure-list experience">
 
   <div class="col-md-6 col-sm-6 animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1s">
     <a href="https://www.redbubble.com/people/asapadventures?asc=u">
