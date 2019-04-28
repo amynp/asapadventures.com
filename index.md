@@ -57,7 +57,6 @@ subHeading: Hi, Welcome to ASAP Adventures. This is a place to keep my travel ad
   </div>
 </div>
 
-
 <head>
  <style type ="text/css" >
    .footer{ 
@@ -67,6 +66,8 @@ subHeading: Hi, Welcome to ASAP Adventures. This is a place to keep my travel ad
        width: 100%;
    }  
 </style>
-<div style="text-align: center;">
-  <a href="https://www.patreon.com/bePatron?u=19450030" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
-</div>
+</head>
+<body>
+    <div class="footer"><a href="https://www.patreon.com/bePatron?u=19450030" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
+    </div>
+</body>
