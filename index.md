@@ -56,18 +56,3 @@ subHeading: Hi, Welcome to ASAP Adventures. This is a place to keep my travel ad
     </a>
   </div>
 </div>
-
-<head>
- <style type ="text/css" >
-   .footer{ 
-       position: fixed;     
-       text-align: center;    
-       bottom: 0px; 
-       width: 100%;
-   }  
-</style>
-</head>
-<body>
-    <div class="footer"><a href="https://www.patreon.com/bePatron?u=19450030" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
-    </div>
-</body>
