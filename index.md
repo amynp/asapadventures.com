@@ -5,7 +5,7 @@ title: ASAP Adventures
 subHeading: Hi, Welcome to ASAP Adventures. This is a place to keep my travel adventures and also my adventures with food!  So come in and have a look around.
 ---
 <div class="text-uppercase adventure-list experience">
-  
+
   <div class="col-md-6 col-sm-6 animated fadeInUp" data-wow-delay="0.2s" data-wow-duration="1s">
     <a href="/travelblog">
       <img src="https://lh3.googleusercontent.com/mcaTfOOwoyNS6s_B4m72K83DC6xz_1kMDBkSyvFmqY5Fril4facF6jqI-kejRxzXdNH3x1EVDtiJRkSWzMGHenCfk2UWO1w5JREfBkAfSb7vZrpD7TsgPDVXeEFj3Iskhz5X_w" alt="adventure-image" class="img-responsive">
@@ -17,8 +17,8 @@ subHeading: Hi, Welcome to ASAP Adventures. This is a place to keep my travel ad
   </div>
 
   <div class="col-md-6 col-sm-6 animated fadeInUp" data-wow-delay="0.3s" data-wow-duration="1s">
-    <a href="/travelplanning">
-      <img src="http://images.travelpod.com/users/amynp/4.1325542231.marina-bay.jpg" alt="adventure-image" class="img-responsive">
+    <a href="/travelguides">
+      <img src="https://lh3.googleusercontent.com/rqRV-B5D3FquKSg5dN9BUCgUSGcOcno7q5FaXWOiY1N6L9WN7y3YPuJibtIMBbkdKj3aFEwQ8KhwuXnssnAj2jIu-P8MGvMuMKu3nN82DtgGWFibkOQ98CYpmbLMMA9FXtz5tXhp-VE=w2400">
       <div class="overlay-lnk text-uppercase text-center">
         <i class="icon icon-map"></i>
         <h5>Travel Planning</h5>
