@@ -1,12 +1,12 @@
 ---
 layout: front-page-template
-bannerImage: https://lh3.googleusercontent.com/oXKNvUu2fQkpDXUdbs30ope9bwSwNSXxcaA_Vyt0si5atd9gnQpvAUTqtH8rRZh_w0vsPUVD0aw1O137-y1EzzOTDA62hEmC6lMkZGx4w7HHVLiwb1IGs5enX8Is8VBZ0Zg8j0jQQ9s=w2400
-subHeading: something someting darkside
+bannerImage: https://lh3.googleusercontent.com/9O0SrUCsBvTWO0HdbEJ1HMpspp9lQRaq8HuL2aHU0o0Hwy2xMGTLNiBb6zHMwLatkE9t8EUHp1LyxMEabxlaRVN1D3Q3JCrypRPN7wm1toxKOhMvBXtqwFCI6uGhjo2aRlHW3UzEF2I=w2400
+subHeading:
 skipfeed: true
 ---
 
 <div class="text-uppercase adventure-list experience">
-  {% for area in site.guide-japan %}
+  {% for area in site.guide-malaysia %}
     <div class="col-md-6 col-sm-6 animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1s">
       <a href="{{area.url | prepend: site.baseurl}}">
         <img src="{{ area.bannerImage }}"  alt="" class="img-responsive">
