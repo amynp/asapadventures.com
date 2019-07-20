@@ -73,3 +73,7 @@ collections:
   blog-2019-canberra:
     output: true
     permalink: /travelblog/2019canberra/:path/
+
+  blog-2019-korea-japan:
+    output: true
+    permalink: /travelblog/2019koreajapan/:path/
