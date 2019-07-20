@@ -1,6 +1,6 @@
 ---
 layout: front-page-template
-bannerImage: hhttps://media.architecturaldigest.com/photos/5c0ed0538d2a442e241057b1/16:9/w_1280,c_limit/GettyImages-771579891.jpg
+bannerImage: https://lh3.googleusercontent.com/90g2wPvnqCU3i6MZubhWmTqlnO1cf_jQm4Zm1jqW0ZoWBSxHKfHY31qn5fSA48aVu3DZiKfebcj_Q_OOpsg7g_5-9U4q7RALEENLPYSJR9aDjT95DpHcSFXUhL9dvv40c_mGYyIGNLM=w2400
 title: Korea and Japan
 subHeading: 
 skipfeed: true
