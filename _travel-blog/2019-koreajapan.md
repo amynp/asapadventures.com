@@ -1,7 +1,7 @@
 ---
 layout: front-page-template
 bannerImage: hhttps://media.architecturaldigest.com/photos/5c0ed0538d2a442e241057b1/16:9/w_1280,c_limit/GettyImages-771579891.jpg
-title: Canberra 2019
+title: Korea and Japan
 subHeading: 
 skipfeed: true
 ---
