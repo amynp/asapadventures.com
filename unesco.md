@@ -27,7 +27,7 @@ visited:
         <a href="{{ visited.blog }}">
           <img src="{{ visited.image }}" alt="adventure-image" class="img-responsive">
           <div class="overlay-lnk text-uppercase text-center">
-            <i class="icon icon-target"></i>
+            <i class="icon icon-compass"></i>
             <h5>{{ visited.name }}</h5>
             <h6>{{ visited.location }}<br/>{{ visited.date }}</h6>
           </div>

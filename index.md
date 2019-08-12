@@ -51,7 +51,7 @@ subHeading: Hi, Welcome to ASAP Adventures. My passion is travelling and plannin
     <a href="/unesco">
       <img src="https://lh3.googleusercontent.com/HuZdQJlj_tTForcvwcVp3EcMQsm0WPTyuHHkulkY2Vcq7CWipXgyFdHU6aCxvuWqR_Q509PHsEmX985OJiANrfof4KNhKsZPRfnkEWnwwVLFgCyYWFDA13BwLZg4LSKVqzDYwmVib1E=w2400" alt="adventure-image" class="img-responsive">
       <div class="overlay-lnk text-uppercase text-center">
-        <i class="icon icon-trophy"></i>
+        <i class="icon icon-streetsign"></i>
         <h5>UNESCO World Heritage Sites</h5>
       </div>
     </a>
