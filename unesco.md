@@ -5,17 +5,17 @@ title: UNESCO World Heritage Sites
 subHeading: Join ASAPadventures on our trips around the world
 
 visited:
-  - name: Eat a bento box on a Shinkansen
-    date: 2016-01-06
-    location: Hakone, Japan
-    blog: /travelblog/2016taiwanjapan/2016-01-06
-    image: https://lh3.googleusercontent.com/5ICc2H2NwyDlFmJs_QGjkzeFu9S5OfUq-nNP8H-pUx_oAfwE0tufs9UvO5e7AXaFnzieM0GpXKUURLh3Q-Z7ulZBfVAPsI6DFf96vhTePso0Mz3GHYlYK3gUeDmYP9X6dGem8Q3x_Q
+  - name: Historic Monuments of Ancient Kyoto
+    date: 2018-10-03
+    location: Kyoto, Japan
+    blog: /travelblog/2018-09-japan
+    image: https://lh3.googleusercontent.com/UYXgj1pQkzGmgB7PNnLsEfLtKE8srJaFGbHR4iWFy4RhT0jmWTMkXZGswnpDo97UP2fUt1ekiyVM5GMiOQ08Fx-L7hU4XiI5mf2U-i_aZMas4xailCwXljuzB9hqf0OvjQXblGGaCYQ=w2400
 
-  - name: See a Big Buddah
-    date: 2014-01-02
-    location: Lantau Island, Hong Kong
-    blog: /travelblog/2014hongkong/2014-01-02
-    image: https://lh3.googleusercontent.com/IPtIsbkOGQSRVEmT45xqeLNYdDsUtAZyu67rDWlId21CyPoJRTSx2-w5tDmq__Qi0s039GFUfkwl4zLsoaA_x1-nvZ9FpzbrDEd__E2QDavHlagYZkrOWWiAdFwZYGSCztinAqLxfA
+  - name: Hiroshima Peace Memorial
+    date: 2016-01-06
+    location: Hiroshima Japan
+    blog: /travelblog/2016taiwanjapan/2016-01-06/
+    image: https://lh3.googleusercontent.com/aJVuszO1_j1wXq4XVqME2nZcdJu-OC7nCsn8BINrEB_k6KtrymUi8Kzebe6Rpo3NebxHyadA-vM5jguSYcH252rvto5FeWBDcumSUuGBirsBD4JiLpp6tWAi79pbKJAa3_50YCd14kg=w2400
 ---
 
 <div class="row">
