@@ -77,3 +77,7 @@ collections:
   blog-2019-korea-japan:
     output: true
     permalink: /travelblog/2019koreajapan/:path/
+
+  blog-2019-vietnam-taiwan:
+    output: true
+    permalink: /travelblog/2019vietnamtaiwan/:path/
