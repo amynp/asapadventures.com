@@ -7,7 +7,7 @@ skipfeed: true
 ---
 
 <div class="text-uppercase adventure-list experience">
-  {% for day in site.blog-2018-singapore-hong-kong %}
+  {% for day in site.blog-2018-singapore-hong-kong reversed %}
     <div class="col-md-6 col-sm-6 animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1s">
       <a href="{{day.url | prepend: site.baseurl}}">
         <img src="{{ day.bannerImage }}"  alt="" class="img-responsive">
