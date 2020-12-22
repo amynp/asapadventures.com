@@ -81,3 +81,39 @@ collections:
   blog-2019-vietnam-taiwan:
     output: true
     permalink: /travelblog/2019vietnamtaiwan/:path/
+
+  blog-2020-australia:
+    output: true
+    permalink: /travelblog/2020australia/:path/
+
+  blog-2020-canberra:
+    output: true
+    permalink: /travelblog/2020canberra/:path/
+
+  blog-2020-new-south-wales:
+    output: true
+    permalink: /travelblog/2020newsouthwales/:path/
+
+  blog-2020-northern-territory:
+    output: true
+    permalink: /travelblog/2020northernterritory/:path/
+
+  blog-2020-queensland:
+    output: true
+    permalink: /travelblog/2020queensland/:path/
+
+  blog-2020-south-australia:
+    output: true
+    permalink: /travelblog/2020southaustralia/:path/
+
+  blog-2020-tasmania:
+    output: true
+    permalink: /travelblog/2020tasmania/:path/
+
+  blog-2020-victoria:
+    output: true
+    permalink: /travelblog/2020victoria/:path/
+
+  blog-2020-western-australia:
+    output: true
+    permalink: /travelblog/2020westernaustralia/:path/
