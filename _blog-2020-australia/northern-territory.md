@@ -1,6 +1,6 @@
 ---
 layout: front-page-template
-bannerImage: https://lh3.googleusercontent.com/ivJLwPO01uj0heZNIOfhFjXkNHebG6_1E2REgk-wPW1nXNIeXQSOkGjr5wJ2W-sh6AXnjz3HlJ55NcZVPU5HvFwJjtmbp5jfystdrmLbWdgYHd9dyhNCxE00ea7_atb-G7-g_hACLQY=w2400
+bannerImage: https://s1.at.atcdn.net/wp-content/uploads/2018/09/Uluru_hero-768x369.jpg
 title: Northern Territory
 subHeading: 
 skipfeed: true

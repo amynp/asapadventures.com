@@ -1,6 +1,6 @@
 ---
 layout: front-page-template
-bannerImage: https://lh3.googleusercontent.com/ivJLwPO01uj0heZNIOfhFjXkNHebG6_1E2REgk-wPW1nXNIeXQSOkGjr5wJ2W-sh6AXnjz3HlJ55NcZVPU5HvFwJjtmbp5jfystdrmLbWdgYHd9dyhNCxE00ea7_atb-G7-g_hACLQY=w2400
+bannerImage: https://lh3.googleusercontent.com/c-0bonY3Z6Rk5-oOcT9pPoGYmXQWlf1lqQHC61D0Gsw7b-YcjqW7Np4cGNTu2J67J0hllGAyOfjih2PInbYDiOOGKcZlrCx-nAFBhVIaQvKd9xUB4j--PJxMvx2_I_NWJ6JwTxceD74=w2400
 title: South Australia
 subHeading: 
 skipfeed: true

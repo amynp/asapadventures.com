@@ -1,6 +1,6 @@
 ---
 layout: front-page-template
-bannerImage: https://lh3.googleusercontent.com/ivJLwPO01uj0heZNIOfhFjXkNHebG6_1E2REgk-wPW1nXNIeXQSOkGjr5wJ2W-sh6AXnjz3HlJ55NcZVPU5HvFwJjtmbp5jfystdrmLbWdgYHd9dyhNCxE00ea7_atb-G7-g_hACLQY=w2400
+bannerImage: https://lh3.googleusercontent.com/O7leLVY-ijhw-m6e04cMZyJch1G4mND8X8LluOB_PZo9N_IkxsWCXQAdi9UANWH5LgmfcGO1xGe7iJJ5YT8VLRY8tnu4A-zeTRvKvJaLRMMW8G1OCCxTzzAeKObFQ99vgLm9BbspIxE=w2400
 title: Canberra
 subHeading: 
 skipfeed: true
