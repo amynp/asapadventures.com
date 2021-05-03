@@ -144,15 +144,46 @@ done:
     blog: /travelblog/2018japan/2018-10-05
     image: https://lh3.googleusercontent.com/c8vAY1uEhBog2byrGCVahxVMQHQnpxe7Qm-6dgKDYSXQrv3jQ6h4cYVVk7T2aQbQQkOCWfl_80E7jXIAcI5w3vZ4wU4KkN6-9-jrLDlXnRTOFXFmOcLS76dI-Huia9NlNuiFXObHwD0=w2400
 
+  - name: Eat sushi in Japan
+    date: 2019-09-28
+    location: Osaka
+    blog: /travelblog/2019koreajapan/2019-09-28
+    image: https://lh3.googleusercontent.com/tohWZxP5S0FtV6Book11dbDynNCpEKFtxWTnHeRs06mqAugBGT2TkR86AsxDXZAX8NURjpy2A-2y-TwWSbUaOWxBzOwyJvCe764fsg8Dv7Kw1skiu41CPWsTm6AGGysA9QppCkETAog=w2400
+
+  - name: Visit Coober Pedy
+    date: 2020-12-31
+    location: Coober Pedy
+    blog: /travelblog/2020southaustralia/2020-12-31/
+    image: https://lh3.googleusercontent.com/3-CoDoLBBtw3MGXaOV15npLM5VTnxkWTvk-6e-2GQ7T8Hy652MXRtNhMhyj_3KS9tSd_UNvIqgP6kI-rJHcGXC9e-BbB0KQOfcvjVQSIcNi7aEtbXNoJnfPwtScV5DxWDgBVFc84xKA=w2400
+
+  - name: See Taekwondo
+    date: 2019-09-15
+    location: Seoul
+    blog: /travelblog/2019koreajapan/2019-09-15/
+    image: https://lh3.googleusercontent.com/818ImMSXjuLrXvvnGEZILe_BMP58iJTneITuyazq3pI_TZ6hrNobvbaewYH0OdRiZVyJqpBxiSAN8paSGe2mrwwxdXJZ-Erca9HXo58J9EMuxOl8z1rLWpgv-vjvPxS7F7EV3vgrAhE=w2400
+
+  - name: Go to Disneyland at Halloween
+    date: 2019-09-30
+    location: Tokyo
+    blog: /travelblog/2019koreajapan/2019-09-30/
+    image: https://lh3.googleusercontent.com/6gVu75nR7ZtRtkm3ikD3LlsomiA7PAlpI6gBfZ7lD7dxTdovkb70WUzNXCHR4R4HLxh-T6MkYBe5xOermDv3OEn97k5HdZNb8hJsJD0FIJztr-gYZNygtj-n_m8wDAyeMjE_Wm30-PY=w2400
+
+  - name: Go to Kakadu
+    date: 2021-04-07
+    location: Northern Territory
+    blog: /travelblog/2020northernterritory/2021-04-07/
+    image: https://lh3.googleusercontent.com/glxNyFRhOMXT4dN2Cx9Vqr6AimylVAdKpr-fNRhJag_mGfu1CXQgIxbBBUep8L5U0MKpLm380muULYCdj792bdIxvWj6NNq7z0d7BaMbpSfzjRnDMS7AwawMFKEIFWVvgFeakPDkpXw=w2400
+
 todo:
   - name: Swim with a platypus
-  - name: Eat sushi in Japan
   - name: Visit Angkor Wat
   - name: Visit Ayres Rock
   - name: Cruise on the Mekong River
   - name: Do a Cannon Swing
   - name: See the Japanese Cherry Blossoms
-  - name: Visit Coober Pedy
+  - name: Go to Australia Zoo
+  - name: Feed a red panda
+  - name: Sleep in an igloo
   - name: Visit Shanghai Disneyland
   - name: Visit Paris Disneyland
   - name: Visit California Disneyland
@@ -179,12 +210,11 @@ todo:
   - name: Go to Pompeii
   - name: See Antartica
   - name: Sleep in a real castle
-  - name: Walk in a Lava tunnel
-  - name: See Taekwondo
+  
   - name: Go to Transylvania
   - name: See the Berlin Wall
   - name: Go to Harry Potter Studios
-  - name: Go to Disneyland at Halloween
+  
 ---
 
 <div class="row">
