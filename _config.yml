@@ -94,9 +94,9 @@ collections:
     output: true
     permalink: /travelblog/2020newsouthwales/:path/
 
-  blog-2020-northern-territory:
+  blog-2021-the-top-end:
     output: true
-    permalink: /travelblog/2020northernterritory/:path/
+    permalink: /travelblog/2021thetopend/:path/
 
   blog-2020-queensland:
     output: true
