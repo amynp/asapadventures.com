@@ -117,3 +117,7 @@ collections:
   blog-2020-western-australia:
     output: true
     permalink: /travelblog/2020westernaustralia/:path/
+
+  blog-2022-sunshine-coast:
+    output: true
+    permalink: /travelblog/2022sunshinecoast/:path/
