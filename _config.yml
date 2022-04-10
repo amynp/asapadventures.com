@@ -82,10 +82,6 @@ collections:
     output: true
     permalink: /travelblog/2019vietnamtaiwan/:path/
 
-  blog-2020-australia:
-    output: true
-    permalink: /travelblog/2020australia/:path/
-
   blog-2020-canberra:
     output: true
     permalink: /travelblog/2020canberra/:path/
