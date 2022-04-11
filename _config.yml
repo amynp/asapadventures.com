@@ -26,6 +26,10 @@ collections:
     output: true
     permalink: /travelguides/malaysia/:path
 
+  guide-australia:
+    output: true
+    permalink: /travelguides/australia/:path
+
   travel-blog:
     output: true
     permalink: /travelblog/:path
@@ -86,9 +90,9 @@ collections:
     output: true
     permalink: /travelblog/2020canberra/:path/
 
-  blog-2020-new-south-wales:
+  blog-2021-outback-nsw:
     output: true
-    permalink: /travelblog/2020newsouthwales/:path/
+    permalink: /travelblog/2021outbacknsw/:path/
 
   blog-2021-the-top-end:
     output: true
