@@ -8,6 +8,7 @@ comments: true
 ---
  # Day 1
  ## Arrive
+ 
 We are arriving at Sunshine Coast Airport an will pick up the car. We are heading to Hervey Bay. Maddigan’s Seafood might be a good spot to pick up dinner.
 
 <section>
