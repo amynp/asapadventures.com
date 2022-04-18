@@ -186,22 +186,42 @@ done:
     blog: /travelblog/2019vietnamtaiwan/2020-01-02/
     image: https://lh3.googleusercontent.com/NG8kDmQxU99m0vbdPmpSHv6SLKTDa9_KRdtEy5i2zEz1KxrrIwEtYKDCUloDBQqccGuu2LlCN6R35hkUGAgfcSF--41NlMOzj4DjpxbUx94wUYCeZo4r0uz4KXKCPY6Th45EpIfOoiANOQneEcMAoSq6rL_S42U4A-faC11zmSiL_7RehuEPOc4LYgFR8kSmIznFDkclCsA9qSEx1rYpx_o9X_NU4J_zc4qUu7tPaaw2TgomuzP7H0uypAFsUHgryPeEQmygrvlF4X4kwXKwCK1sjlislCaXIXcYSjSvQvcHJVGegyTGS6ibvk5AcRnxJaUDQwkmrbgJZwnF9a_hZHlaC0fBWb_ai6XqLP-KfiBUXl4Dmf0wMXZRktDrxz6gstRoYMuFpcRGkQfL7CY46kNAILFuO2YN7NkOo2EosNwPHVSzjDFJbIw3Dy1hW3mu7JR2vGNobPwu2econnR0BGgORe-OJSmnfML-We8CxFF0w2f3QuDk2tQahflS64M1rhYwGxjnk5Df25mDjGfpZcZdoC8qnz_kG-w_NTlQF_9osiER_MwSl57q0HTGQKrm7agJKkCqESBJeurC9YD4VbQTOtvrJd4Aydk5Aq2EiADyQd_N3STfZ5AxzCCtF1N9968DUpdcb4DWqS2rVR0l_r-ABcOaHmiF3_LvM5zbokiYZrK2aXZc-gUZv0rvXF1fY7Gs5ohA48cIbaGzENXmnq1jXitEbx3pDtotk7NP3dP5Ug2MKA=w960-h640-no
 
+ name: Swim in the Great Barrier Reef
+    date: 2022-04-17
+    location: Lady Musgrave Island
+    blog: /travelblog/2022sunshinecoast/2022-04-17/
+    image: https://lh3.googleusercontent.com/KZ2YnGgG83_mIaDf9Y1vSo72NtTh6YITO_ElXUtuLiOEHZyMrT5Aw7BXGIvt8rwa-Bd6LDyXXeal2LaVTf--XbTQ-hIb3QkklJuKgu0HXevaUbwcXMfnjfs8yKDFoVRFE1mDk8LmRZ4=w2400
+
+  name: Go to Fraser Island
+    date: 2022-04-14
+    location: Fraser  Island
+    blog: /travelblog/2022sunshinecoast/2022-04-14/
+    image: https://lh3.googleusercontent.com/JVXVc_sm07jFVtYwgE50nqK705GEHd8450r9kY2th5sSY9jRQosDzYQ7Suhrzi-W5O5NzGKjZV7sBUALdK2-VEV__o5WM7kADexQ321jxnwMnva5wXtiJlFELxUmCDXmePcu_jmkjy8=w2400
+
+ name: Swim with a platypus
+    date: 2022-04-17
+    location: Healsville Sanctuary
+    blog: 
+    image: 
+
+ name: Feed a red panda
+    date: 2022-01-25
+    location: Halls Gap
+    blog: 
+    image: 
 
 todo:
-  - name: Swim with a platypus
   - name: Visit Angkor Wat
   - name: Visit Ayres Rock
   - name: Cruise on the Mekong River
   - name: Do a Cannon Swing
   - name: See the Japanese Cherry Blossoms
   - name: Go to Australia Zoo
-  - name: Feed a red panda
   - name: Sleep in an igloo
   - name: Visit Shanghai Disneyland
   - name: Visit Paris Disneyland
   - name: Visit California Disneyland
   - name: Visit Florida Disneyworld
-  - name: Swim in the Great Barrier Reef
   - name: Walk on the Great Wall of China
   - name: See a lantern festival
   - name: Feed a dolphin at Monkey Mia
@@ -223,11 +243,10 @@ todo:
   - name: Go to Pompeii
   - name: See Antartica
   - name: Sleep in a real castle
-  
   - name: Go to Transylvania
   - name: See the Berlin Wall
   - name: Go to Harry Potter Studios
-  
+  - name: See a quokka
 ---
 
 <div class="row">
