@@ -210,13 +210,18 @@ done:
     blog: 
     image: 
 
+  - name: Visit Australia Zoo
+    date: 2022-04-20
+    location: Queensland, Australia
+    blog: /travelblog/2022sunshinecoast/2022-04-20/
+    image: https://lh3.googleusercontent.com/w2A2MrZNOjZ6Hmws_ejkcf-FV51xHW1znHea5L2gwr6bYBo8pIDe7HA43VMqvF2jcNZdQCqQUrfAJWQ0LOQXndOTChf6Phm85CLnrtrRt8AeI-d-E-BwVCcJYWPnkyAgIavv8m9Oadk=w2400
+
 todo:
   - name: Visit Angkor Wat
   - name: Visit Ayres Rock
   - name: Cruise on the Mekong River
   - name: Do a Cannon Swing
   - name: See the Japanese Cherry Blossoms
-  - name: Go to Australia Zoo
   - name: Sleep in an igloo
   - name: Visit Shanghai Disneyland
   - name: Visit Paris Disneyland
