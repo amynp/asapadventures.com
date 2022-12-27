@@ -125,3 +125,7 @@ collections:
   blog-2022-tasmania:
     output: true
     permalink: /travelblog/2022tasmania/:path/
+
+  blog-2022-the-red-centre:
+    output: true
+    permalink: /travelblog/2022theredcentre/:path/
