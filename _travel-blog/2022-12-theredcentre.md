@@ -1,6 +1,6 @@
 ---
 layout: front-page-template
-bannerImage: https://www.worldhistory.org/img/r/p/500x600/10131.jpg?v=1635275703
+bannerImage: https://lh3.googleusercontent.com/RvW4VONV7hLEfGDpeNNcJkq6uVRr98Bzm4PnwyDPSyHvoIcif5EJajN01EWXbPNQKmaAuAga8hQQDX7rFvgoMVAAEITlMD1z95OXKi7R8of1Vt6sLouS-UOw7pcT0kzy7qIcM5CxCwU=w2400
 title: The Red Centre 2022
 subHeading: 
 skipfeed: true
