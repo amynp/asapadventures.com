@@ -129,3 +129,7 @@ collections:
   blog-2022-the-red-centre:
     output: true
     permalink: /travelblog/2022theredcentre/:path/
+
+  blog-2023-the-fraser-coast:
+    output: true
+    permalink: /travelblog/2023thefrasercoast/:path/
