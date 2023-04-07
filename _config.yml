@@ -133,3 +133,7 @@ collections:
   blog-2023-the-fraser-coast:
     output: true
     permalink: /travelblog/2023thefrasercoast/:path/
+
+  blog-2023-the-limestone-coast:
+    output: true
+    permalink: /travelblog/2023thelimestonecoast/:path/
