@@ -252,6 +252,9 @@ todo:
   - name: See the Berlin Wall
   - name: Go to Harry Potter Studios
   - name: See a quokka
+  - name: Fossil coast in England
+  - name: See Orca's
+  - name: See baby turtles hatching
 ---
 
 <div class="row">
