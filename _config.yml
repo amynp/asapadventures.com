@@ -141,3 +141,7 @@ collections:
   blog-2023-tasmania:
     output: true
     permalink: /travelblog/2023tasmania/:path/
+
+  blog-2023-disney-cruise:
+    output: true
+    permalink: /travelblog/2023disney-cruise/:path/
