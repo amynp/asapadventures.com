@@ -145,3 +145,7 @@ collections:
   blog-2023-disney-cruise:
     output: true
     permalink: /travelblog/2023disney-cruise/:path/
+
+  blog-2023-philippines-japan:
+    output: true
+    permalink: /travelblog/2023philippinesjapan/:path/
