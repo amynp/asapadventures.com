@@ -1,6 +1,6 @@
 ---
 layout: front-page-template
-bannerImage:https://en.japantravel.com/static/1440x960!/top-page-odori-park-winter.jpeg
+bannerImage: https://en.japantravel.com/static/1440x960!/top-page-odori-park-winter.jpeg
 title: Philippines and Japan 2023/2024
 subHeading: 
 skipfeed: true
