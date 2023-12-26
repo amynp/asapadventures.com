@@ -111,7 +111,7 @@ visited:
     date: 2021-12-30
     location: NSW, Australia
     blog: /travelblog/2021outbacknsw/2021-12-30/
-    image: https://lh3.googleusercontent.com/N_h7ApKKS2BVk9ECcb8yKwgraQqNZvLHfJhK8LkIZtjLtrU3wIRfdlHpRTuFlpQNvpR3Hzq2N9NxivqEVcHqGc3p7sq8-yuxUa_7KzLI7LBngvbJ-G-7fg9jhtibH15NHaj2-ixc7YE=w2400
+    image: https://lh3.googleusercontent.com/N_h7ApKKS2BVk9ECcb8yKwgraQqNZvLHfJhK8LkIZtjLtrU3wIRfdlHpRTuFlpQNvpR 3Hzq2N9NxivqEVcHqGc3p7sq8-yuxUa_7KzLI7LBngvbJ-G-7fg9jhtibH15NHaj2-ixc7YE=w2400
 
     name: San Agustin Church
     date: 2023-12-25
