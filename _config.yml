@@ -153,3 +153,7 @@ collections:
   blog-2024-canberra:
     output: true
     permalink: /travelblog/2024canberra:path/
+
+  blog-2024-southislandnz:
+    output: true
+    permalink: /travelblog/2024southislandnz:path/
