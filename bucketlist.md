@@ -220,7 +220,7 @@ done:
     date: 2022-12-30
     location: Northern Territory, Australia
     blog: /travelblog/2022theredcentre/2022-12-30/
-    image: {{ "/images/bucketlist/PXL_20221230_080218132.MP.jpg" | prepend: site.baseurl }}
+    image: "/images/bucketlist/PXL_20221230_080218132.MP.jpg"
 
 todo:
   - name: Visit Angkor Wat
