@@ -216,9 +216,14 @@ done:
     blog: /travelblog/2022sunshinecoast/2022-04-20/
     image: https://lh3.googleusercontent.com/w2A2MrZNOjZ6Hmws_ejkcf-FV51xHW1znHea5L2gwr6bYBo8pIDe7HA43VMqvF2jcNZdQCqQUrfAJWQ0LOQXndOTChf6Phm85CLnrtrRt8AeI-d-E-BwVCcJYWPnkyAgIavv8m9Oadk=w2400
 
+  - name: Visit Uluru
+    date: 2022-12-30
+    location: Northern Territory, Australia
+    blog: /travelblog/2022theredcentre/2022-12-30/
+    image: {{ "/images/bucketlist/PXL_20221230_080218132.MP.jpg" | prepend: site.baseurl }}
+
 todo:
   - name: Visit Angkor Wat
-  - name: Visit Ayres Rock
   - name: Cruise on the Mekong River
   - name: Do a Cannon Swing
   - name: See the Japanese Cherry Blossoms
