@@ -214,7 +214,7 @@ done:
     date: 2022-04-20
     location: Queensland, Australia
     blog: /travelblog/2022sunshinecoast/2022-04-20/
-    image: images/bucketlist/crocfeeding.JPG
+    image: /images/bucketlist/crocfeeding.JPG
 
   - name: Visit Uluru
     date: 2022-12-30
