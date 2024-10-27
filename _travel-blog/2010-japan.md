@@ -1,8 +1,8 @@
 ---
 layout: front-page-template
-bannerImage: https://lh3.googleusercontent.com/Y4Vkdif4zL72J9L1NfhHOInozpIDrcgYZgBSmYyF27qNWSuZaMdP2jhOGNk5YYuHfHsjJMxz81-_R4M2sChc0K4dek1jXv2Yq4EBnX2gE3N_CstA2p42WTiVwF6AxSe4Ir3w2g
+bannerImage: /images/2010japan/2009-12-30/img_0732.jpg
 title: Japan 2009/2010
-subHeading: My first overseas trip to the beautiful land of the rising sun. I travelled in a group of 6 mostly around Tokyo and a few days trips out. Amazing time.
+subHeading: Our first ever overseas trip to the land of the rising sun. We only visited Tokyo this trip but it was such a great intro into the wonder that is Japan. 
 skipfeed: true
 ---
 
