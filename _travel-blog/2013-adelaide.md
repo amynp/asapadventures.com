@@ -1,6 +1,6 @@
 ---
 layout: front-page-template
-bannerImage: https://lh3.googleusercontent.com/0TGnL5YfkXkYmjZ8M-NJ8cvug8bKkRk6O01Xt3-mPnAgkZui9veBaJzY3r4K3bKJHGGJBfaTaRzjP3GWxZgoLmzYaa0G_7dI07oaF-ELClmlWarzy-ISy5RPOkktxYIY06pTN4EUYg
+bannerImage: /images/2013adelaide/2013-03-26/5.1367186770.3-panda-edited.jpg_compressed.JPEG
 title: Adelaide 2013
 subHeading: Anthony, Steve, Sarma and I took a road trip to Adelaide to see the Pandas. They are so cute.
 skipfeed: true
