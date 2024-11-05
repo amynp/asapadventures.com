@@ -1,6 +1,6 @@
 ---
 layout: front-page-template
-bannerImage: https://lh3.googleusercontent.com/c9WTI6nLdI0t27urgJ6AH85tNfID56HNlXo3MsFsuAAjgPNOhtrbAAe6pBf8kPR9WIrCXiO_OQfqaPTHh_Eqpw4SiAqZ23GmBhx-7yU5Qe48B20VPklGACmG6yXNTyHoKBaEPjwZIQ=w2400
+bannerImage: /images/2017hongkong/2017-01-05/IMG_5049.JPG_compressed.JPEG
 title: Hong Kong 2017
 subHeading: 
 skipfeed: true
