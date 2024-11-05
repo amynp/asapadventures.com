@@ -1,8 +1,8 @@
 ---
 layout: front-page-template
-bannerImage: https://lh3.googleusercontent.com/xPzJEoAiq4TPFHPlvo20IFHXXtFLS-1RjPg9KqE3ZVSwRCXRoejFggRntSyuQmhIfciwYW3Y-_mFWe7L44aKi_08Un1w-lNU7KWgCVDhYTr6k8Ygi461ktrMsIHs8mSfTRzxWPpL7Q=w2400
+bannerImage: /images/2016taiwanjapan/2016-01-03/IMG_3068.JPG_compressed.JPEG
 title: Taiwan and Japan 2016/2017
-subHeading: 
+subHeading: A multistep trip to see Taiwan and Japan. We travelled with 6 friends in Taiwan and then joined up with another 6 to make a huge group of 12. So much fun!
 skipfeed: true
 ---
 

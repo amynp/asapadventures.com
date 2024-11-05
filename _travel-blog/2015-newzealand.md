@@ -1,8 +1,8 @@
 ---
 layout: front-page-template
-bannerImage: https://lh3.googleusercontent.com/oeS_VgYKwuJnTEPIcdBTv5VJHJzf9oaVWrWnZqgAuJ1awl7k2d5Bb_FDdP2Vi0mTun-X3OJdmgd342g_6_BqgAmM0La4yBo7lGaRk-RWsgDPOROb5c7pNV4j_lguIUdxclXeUJx4-Q
+bannerImage: /images/2015newzealand/2015-04-05/IMG_1458.JPG_compressed.JPEG
 title: New Zealand 2015
-subHeading: 
+subHeading: A duo short trip over to our neighbours in New Zealand. We went mainly to see Hobbiton. 
 skipfeed: true
 ---
 
