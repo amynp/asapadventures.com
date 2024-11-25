@@ -1,6 +1,6 @@
 ---
 layout: front-page-template
-bannerImage: /images/2018singaporehongkong/2018-04-05/IMG_8230.jpg_compressed.JPEG
+bannerImage: /images/blogs/2018singaporehongkong/2018-04-05/IMG_8230.jpg_compressed.JPEG
 title: Singapore / HongKong 2018
 subHeading: This is one of my proudest trips it was just me and Anthony but I did this trip for under $2500 which I was pretty happy with.
 skipfeed: true

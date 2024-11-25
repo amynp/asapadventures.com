@@ -1,8 +1,8 @@
 ---
 layout: front-page-template
-bannerImage: /images/2010japan/2009-12-30/img_0732.jpg
+bannerImage: /images/blogs/2010japan/2009-12-30/img_0732.jpg
 title: Japan 2009/2010
-subHeading: Our first ever overseas trip to the land of the rising sun. We only visited Tokyo this trip but it was such a great intro into the wonder that is Japan. 
+subHeading: Our first ever overseas trip to the land of the rising sun. We only visited Tokyo this trip but it was such a great intro into the wonder that is Japan.
 skipfeed: true
 ---
 
