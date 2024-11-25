@@ -1,8 +1,8 @@
 ---
 layout: front-page-template
-bannerImage: /images/2017hongkong/2017-01-05/IMG_5049.JPG_compressed.JPEG
+bannerImage: /images/blogs/2017hongkong/2017-01-05/IMG_5049.JPG_compressed.JPEG
 title: Hong Kong 2017
-subHeading: 
+subHeading:
 skipfeed: true
 ---
 

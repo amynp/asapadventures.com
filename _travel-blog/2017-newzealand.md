@@ -1,8 +1,8 @@
 ---
 layout: front-page-template
-bannerImage: /images/2017newzealand/2017-04-07/IMG_6389.JPG_compressed.JPEG
+bannerImage: /images/blogs/2017newzealand/2017-04-07/IMG_6389.JPG_compressed.JPEG
 title: New Zealand 2017
-subHeading: 
+subHeading:
 skipfeed: true
 ---
 
