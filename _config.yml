@@ -13,6 +13,9 @@ sass:
   sass_dir: _sass
   style: compressed
 
+exclude:
+  - script
+
 collections:
   travel-guides:
     output: true
