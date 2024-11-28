@@ -1,6 +1,6 @@
 ---
 layout: front-page-template
-bannerImage: https://lh3.googleusercontent.com/qxLohTTKp_SDQekQOimbQODlwo3SbFo3J1zK8XTuXPKfBOhZ2CdgsCwv5teKoVuqxFdbev53qrAWLp7gt1h2IFsUgs5OiJ92dVJdT_oYaqSm2o7pND-VlyGGzDsbq5jAW0XAJ_muSqM=w2400
+bannerImage: /images/blogs/2019canberra/2019-01-03/IMG_20190103_204426.jpg_compressed.JPEG
 title: Canberra 2019
 subHeading: 
 skipfeed: true
