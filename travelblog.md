@@ -7,14 +7,16 @@ subHeading: Join ASAPadventures on our trips around the world
 
 <div class="text-uppercase adventure-list experience">
   {% for day in site.travel-blog reversed %}
-    <div class="col-md-6 col-sm-6 animated fadeInUp" data-wow-delay="0.{{ forloop.index }}s" data-wow-duration="1s">
-      <a href="{{day.url | prepend: site.baseurl}}">
-        <img src="{{ day.bannerImage }}"  alt="" class="img-responsive">
-        <div class="overlay-lnk text-uppercase text-center">
-          <i class="icon icon-map"></i>
-          <h5>{{ day.title }}</h5>
-        </div>
-      </a>
-    </div>
+    {% unless day.draft %}
+      <div class="col-md-6 col-sm-6 animated fadeInUp" data-wow-delay="0.{{ forloop.index }}s" data-wow-duration="1s">
+        <a href="{{day.url | prepend: site.baseurl}}">
+          <img src="{{ day.bannerImage }}"  alt="" class="img-responsive">
+          <div class="overlay-lnk text-uppercase text-center">
+            <i class="icon icon-map"></i>
+            <h5>{{ day.title }}</h5>
+          </div>
+        </a>
+      </div>
+      {% endunless %}
   {% endfor %}
 </div>
