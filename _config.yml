@@ -113,9 +113,9 @@ collections:
     output: true
     permalink: /travelblog/2020tasmania/:path/
 
-  blog-2020-victoria:
-    output: true
-    permalink: /travelblog/2020victoria/:path/
+#  blog-2020-victoria:
+#    output: true
+#    permalink: /travelblog/2020victoria/:path/
 
   blog-2020-western-australia:
     output: true
