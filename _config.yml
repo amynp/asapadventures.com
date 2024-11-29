@@ -15,7 +15,6 @@ sass:
 
 exclude:
   - script
-  - "travelblog/2020-victoria"
 
 collections:
   travel-guides:
