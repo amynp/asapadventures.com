@@ -1,6 +1,6 @@
 ---
 layout: front-page-template
-bannerImage: https://lh3.googleusercontent.com/C3lPYEDTr1blBCkSidZIc32Agyd39Hg0LL9GFnX3TPe4onCEWSobxR_EN1ka5HgNVlr1351Xzje2H16TvHTcKBm7eR_DDhibYmaVDIUyzOmtaV_QBBabpj-818Y8eGI4bmB8QAjzb98=w2400
+bannerImage: /images/blogs/2020southaustralia/2020-12-31/PXL_20201231_094034769.jpg_compressed.JPEG
 title: South Australia 2020/2021
 subHeading: 
 skipfeed: true
