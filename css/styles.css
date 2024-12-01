@@ -2303,7 +2303,9 @@ span.post-author a:hover{color: #e04930;}
 	font-weight: 900;
 }
 .blog-post-content p{
-	line-height: 30px;
+	font-size: 18px;
+	line-height: 1.8;
+	text-align: justify;
 	margin-bottom: 20px;
 }
 .blog-post-content .center-image{
