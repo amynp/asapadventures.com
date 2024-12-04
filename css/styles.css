@@ -2294,6 +2294,9 @@ span.post-author a:hover{color: #e04930;}
 .blog-post-content{
 	font-family: 'PT Serif', sans-serif;
 	padding-bottom: 1px;
+	font-size: 18px;
+	line-height: 1.8;
+	text-align: justify;
 }
 .blog-post-content .post-title{
 	color: #e04930;
@@ -2303,9 +2306,6 @@ span.post-author a:hover{color: #e04930;}
 	font-weight: 900;
 }
 .blog-post-content p{
-	font-size: 18px;
-	line-height: 1.8;
-	text-align: justify;
 	margin-bottom: 20px;
 }
 .blog-post-content .center-image{
@@ -2440,15 +2440,6 @@ span.post-author a:hover{color: #e04930;}
 .blog-post-content ul li{
 	position: relative;
 	padding-left: 15px;
-}
-.blog-post-content ul li:after{
-	content: "";
-	position: absolute;
-	top: 50%;
-	left: 7px;
-	width: 2px;
-	height: 2px;
-	background: #333;
 }
 
 .blog-post-content .video-overlay{
