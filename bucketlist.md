@@ -260,6 +260,8 @@ todo:
   - name: Fossil coast in England
   - name: See Orca's
   - name: See baby turtles hatching
+  - name: Visit the guinea pig bridge
+  - name: Unironically take a Fahrt to Assmannshausen
 ---
 
 <div class="row">
