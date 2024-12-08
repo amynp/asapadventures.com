@@ -1,8 +1,8 @@
 ---
 layout: front-page-template
-bannerImage: /images/blogs/2019canberra/2019-01-03/IMG_20190103_204426.jpg_compressed.JPEG
+bannerImage: http://photos-1.asapadventures.com/blogs/2019canberra/2019-01-03/IMG_20190103_204426.jpg_compressed.JPEG
 title: Canberra 2019
-subHeading: 
+subHeading:
 skipfeed: true
 ---
 
