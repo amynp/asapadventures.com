@@ -1,8 +1,8 @@
 ---
 layout: front-page-template
-bannerImage: /images/blogs/2019vietnamtaiwan/2019-12-24/20191224201616_IMG_3559~2.jpg_compressed.JPEG
+bannerImage: http://photos-1.asapadventures.com/blogs/2019vietnamtaiwan/2019-12-24/20191224201616_IMG_3559~2.jpg_compressed.JPEG
 title: Vietnam and Taiwan 2019/2020
-subHeading: 
+subHeading:
 skipfeed: true
 ---
 
