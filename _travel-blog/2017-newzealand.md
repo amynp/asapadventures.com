@@ -1,6 +1,6 @@
 ---
 layout: front-page-template
-bannerImage: /images/blogs/2017newzealand/2017-04-07/IMG_6389.JPG_compressed.JPEG
+bannerImage: http://photos-1.asapadventures.com/blogs/2017newzealand/2017-04-07/IMG_6389.JPG_compressed.JPEG
 title: New Zealand 2017
 subHeading:
 skipfeed: true

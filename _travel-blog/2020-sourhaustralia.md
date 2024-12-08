@@ -1,8 +1,8 @@
 ---
 layout: front-page-template
-bannerImage: /images/blogs/2020southaustralia/2020-12-31/PXL_20201231_094034769.jpg_compressed.JPEG
+bannerImage: http://photos-1.asapadventures.com/blogs/2020southaustralia/2020-12-31/PXL_20201231_094034769.jpg_compressed.JPEG
 title: South Australia 2020/2021
-subHeading: 
+subHeading:
 skipfeed: true
 ---
 
