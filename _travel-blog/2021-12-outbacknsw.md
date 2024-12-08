@@ -1,8 +1,8 @@
 ---
 layout: front-page-template
-bannerImage: /images/blogs/2021outbacknsw/2021-12-30/PXL_20211231_093740946.jpg_compressed.JPEG
+bannerImage: http://photos-1.asapadventures.com/blogs/2021outbacknsw/2021-12-30/PXL_20211231_093740946.jpg_compressed.JPEG
 title: Outback NSW 2021/2022
-subHeading: 
+subHeading:
 skipfeed: true
 ---
 
