@@ -1,6 +1,6 @@
 ---
 layout: front-page-template
-bannerImage: https://www.visitmelbourne.com/-/media/images/the-murray/things-to-do/nature-and-wildlife/mungo-national-park_mur_r_credit-roberto-seba_1438467_1600x900.jpg?ts=20151201580527&amp;c=product&amp;cw=1600&amp;ch=1200
+bannerImage: /images/blogs/2021outbacknsw/2021-12-30/PXL_20211231_093740946.jpg_compressed.JPEG
 title: Outback NSW 2021/2022
 subHeading: 
 skipfeed: true
