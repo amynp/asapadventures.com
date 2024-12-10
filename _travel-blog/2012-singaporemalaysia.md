@@ -1,6 +1,6 @@
 ---
 layout: front-page-template
-bannerImage: /images/blogs/2012singaporemalaysia/2011-12-31/20120101015705.jpg_compressed.JPEG
+bannerImage: http://photos-1.asapadventures.com/blogs/2012singaporemalaysia/2011-12-31/20120101015705.jpg_compressed.JPEG
 title: Singapore and Malaysia 2011/2012
 subHeading: Anthony, Steve and I decided to go and visit our friend Sarma in Malaysia. We decided to extend the holiday and explore Singapore all together before spending time in Malaysia. It was a great trip with a stay in 2 amazing hotels.
 skipfeed: true

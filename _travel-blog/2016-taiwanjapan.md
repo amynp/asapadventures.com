@@ -1,6 +1,6 @@
 ---
 layout: front-page-template
-bannerImage: /images/blogs/2016taiwanjapan/2016-01-03/IMG_3068.JPG_compressed.JPEG
+bannerImage: http://photos-1.asapadventures.com/blogs/2016taiwanjapan/2016-01-03/IMG_3068.JPG_compressed.JPEG
 title: Taiwan and Japan 2016/2017
 subHeading: A multistep trip to see Taiwan and Japan. We travelled with 6 friends in Taiwan and then joined up with another 6 to make a huge group of 12. So much fun!
 skipfeed: true
