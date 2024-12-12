@@ -13,7 +13,7 @@ comments: true
 Code:
 
 <pre>
-&lt;div class="center-image"&gt;&lt;img src="/images/blog/date/image.jpg"/&gt;&lt;/div&gt;
+&lt;div class="center-image"&gt;&lt;img src="/"/&gt;&lt;/div&gt;
 </pre>
 
 Example:
@@ -28,8 +28,8 @@ Code:
 
 <pre>
 &lt;div class="grid-2c"&gt;
-  &lt;img src="/images/blog/date/image.jpg"/&gt;
-  &lt;img src="/images/blog/date/image.jpg"/&gt;
+  &lt;img src="/"/&gt;
+  &lt;img src="/"/&gt;
 &lt;/div&gt;
 </pre>
 
@@ -55,9 +55,9 @@ Code:
 
 <pre>
 &lt;div class="grid-3c"&gt;
-  &lt;img src="/images/blog/date/image.jpg"/&gt;
-  &lt;img src="/images/blog/date/image.jpg"/&gt;
-  &lt;img src="/images/blog/date/image.jpg"/&gt;
+  &lt;img src="/"/&gt;
+  &lt;img src="/"/&gt;
+  &lt;img src="/"/&gt;
 &lt;/div&gt;
 </pre>
 
@@ -85,9 +85,9 @@ Code:
 
 <pre>
 &lt;div class="grid-1l-2w"&gt;
-  &lt;img src="/images/blog/date/image.jpg"/&gt;
-  &lt;img src="/images/blog/date/image.jpg"/&gt;
-  &lt;img src="/images/blog/date/image.jpg"/&gt;
+  &lt;img src="/"/&gt;
+  &lt;img src="/"/&gt;
+  &lt;img src="/"/&gt;
 &lt;/div&gt;
 </pre>
 
@@ -107,9 +107,9 @@ Code:
 
 <pre>
 &lt;div class="grid-2w-1l"&gt;
-  &lt;img src="/images/blog/date/image.jpg"/&gt;
-  &lt;img src="/images/blog/date/image.jpg"/&gt;
-  &lt;img src="/images/blog/date/image.jpg"/&gt;
+  &lt;img src="/"/&gt;
+  &lt;img src="/"/&gt;
+  &lt;img src="/"/&gt;
 &lt;/div&gt;
 </pre>
 
