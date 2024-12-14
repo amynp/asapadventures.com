@@ -1,4 +1,20 @@
-<header class="overlay" data-bg="{{ page.bannerImage }}">
+<script>
+  var images = [ 
+    "{{page.bannerImage}}", 
+    {% if page.bannerImages != null %}
+      {% for image in page.bannerImages %}
+        "{{image}}",
+      {% endfor %}
+    {% endif %}
+  ];
+
+  document.addEventListener("DOMContentLoaded", function(e) {
+    var image = images[Math.floor(Math.random()*images.length)];
+    document.getElementById("banner").setAttribute("data-bg", image);
+  });
+</script>
+
+<header id="banner" class="overlay" data-bg="{{ page.bannerImage }}">
   <nav class="navbar navbar-fixed-top">
     <div class="container">
       {% include menu.html %}
