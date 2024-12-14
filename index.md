@@ -1,6 +1,6 @@
 ---
 layout: front-page-template
-bannerImage: https://lh3.googleusercontent.com/ITe3uqVNFyan_SxYt6anf_WTk-xCLGydbdEW_vdL6TgWu_ulttYNKXRne7IEtPRBN04cMgPvUF5cCeH5DK7oqmODOcNu_VNLfWeYy-pLxXV73ERCmJT1PO4j3AHR0X-7n0u_8Q
+bannerImage: /images/main.JPG
 title: ASAP Adventures
 subHeading: Hi, Welcome to ASAP Adventures. My passion is travelling and planning amazing travel experiences for others. Here is a collection of my trips, my photography and some travel guides for you! Please feel free to drop me an email if you have any questions or need help with planning your ideal trip.
                             asapadventurestravel@gmail.com
