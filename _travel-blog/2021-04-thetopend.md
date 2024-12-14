@@ -1,8 +1,8 @@
 ---
 layout: front-page-template
-bannerImage: /images/blogs/2021topend/2021-04-10/PXL_20210410_024949593.jpg_compressed.JPEG
+bannerImage: http://photos-2.asapadventures.com/blogs/2021topend/2021-04-10/PXL_20210410_024949593.jpg_compressed.JPEG
 title: The Top End 2021
-subHeading: 
+subHeading:
 skipfeed: true
 ---
 
