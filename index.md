@@ -1,10 +1,29 @@
 ---
 layout: front-page-template
 bannerImage: /images/main.JPG
+bannerImages:
+  - /images/blogs/2024newzealand/2024-07-06/PXL_20240706_015437721.jpg_compressed.JPEG
+  - /images/blogs/2024newzealand/2024-07-06/PXL_20240705_220314389.jpg_compressed.JPEG
+  - /images/blogs/2024newzealand/2024-07-06/PXL_20240705_220406254.jpg_compressed.JPEG
+  - /images/blogs/2024newzealand/2024-07-06/PXL_20240706_010823019.jpg_compressed.JPEG
+  - /images/blogs/2024newzealand/2024-07-06/PXL_20240706_015437721.jpg_compressed.JPEG
+  - /images/blogs/2024newzealand/2024-07-06/PXL_20240706_013703348.jpg_compressed.JPEG
+  - /images/blogs/2024newzealand/2024-07-06/PXL_20240706_035651728.MP.jpg_compressed.JPEG
+  - /images/blogs/2024newzealand/2024-07-06/PXL_20240706_041123057.jpg_compressed.JPEG
+  - /images/blogs/2024newzealand/2024-07-06/PXL_20240706_041555024.MP.jpg_compressed.JPEG
+  - /images/blogs/2024newzealand/2024-07-07/PXL_20240706_222452987.jpg_compressed.JPEG
+  - /images/blogs/2024newzealand/2024-07-07/PXL_20240706_222538691.MP.jpg_compressed.JPEG
+  - /images/blogs/2024newzealand/2024-07-07/PXL_20240706_231546357.MP.jpg_compressed.JPEG
+  - /images/blogs/2024newzealand/2024-07-07/PXL_20240706_233441242.jpg_compressed.JPEG
+  - /images/blogs/2024newzealand/2024-07-07/PXL_20240706_235957521.jpg_compressed.JPEG
+  - /images/blogs/2024newzealand/2024-07-07/PXL_20240707_012331008.jpg_compressed.JPEG
+  - /images/blogs/2024newzealand/2024-07-07/PXL_20240706_232302762.MP.jpg_compressed.JPEG
 title: ASAP Adventures
-subHeading: Hi, Welcome to ASAP Adventures. My passion is travelling and planning amazing travel experiences for others. Here is a collection of my trips, my photography and some travel guides for you! Please feel free to drop me an email if you have any questions or need help with planning your ideal trip.
-                            asapadventurestravel@gmail.com
+subHeading:
+  Hi, Welcome to ASAP Adventures. My passion is travelling and planning amazing travel experiences for others. Here is a collection of my trips, my photography and some travel guides for you! Please feel free to drop me an email if you have any questions or need help with planning your ideal trip.
+  asapadventurestravel@gmail.com
 ---
+
 <div class="text-uppercase adventure-list experience">
 
   <div class="col-md-6 col-sm-6 animated fadeInUp" data-wow-delay="0.2s" data-wow-duration="1s">
