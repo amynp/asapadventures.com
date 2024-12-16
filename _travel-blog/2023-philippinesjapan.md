@@ -1,6 +1,6 @@
 ---
 layout: front-page-template
-bannerImage: https://lh3.googleusercontent.com/pw/ABLVV86xlUfv0qn2-Pu0-lXNxYTel-KO4emPsHfih0vlsXElcGAJa3SLsAuu_uylbUL4ooBDMy34IO8Jz97XSqNeqeH4_n5HgwyVcpzmfWmm18R5zvuS1fNH=w2400
+bannerImage: http://photos-2.asapadventures.com/blogs/2023philippinesjapan/2024-01-03/PXL_20240103_060853269.jpg_compressed.JPEG
 title: Philippines and Japan 2023/2024
 subHeading: 
 skipfeed: true

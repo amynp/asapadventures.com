@@ -1,6 +1,6 @@
 ---
 layout: front-page-template
-bannerImage: https://lh3.googleusercontent.com/9O0SrUCsBvTWO0HdbEJ1HMpspp9lQRaq8HuL2aHU0o0Hwy2xMGTLNiBb6zHMwLatkE9t8EUHp1LyxMEabxlaRVN1D3Q3JCrypRPN7wm1toxKOhMvBXtqwFCI6uGhjo2aRlHW3UzEF2I=w2400
+bannerImage: http://photos-1.asapadventures.com/blogs/2012singaporemalaysia/2012-01-06/20120106223918.jpg_compressed.JPEG
 subHeading:
 skipfeed: true
 ---

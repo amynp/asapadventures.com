@@ -1,6 +1,6 @@
 ---
 layout: front-page-template
-bannerImage: https://lh3.googleusercontent.com/RvW4VONV7hLEfGDpeNNcJkq6uVRr98Bzm4PnwyDPSyHvoIcif5EJajN01EWXbPNQKmaAuAga8hQQDX7rFvgoMVAAEITlMD1z95OXKi7R8of1Vt6sLouS-UOw7pcT0kzy7qIcM5CxCwU=w2400
+bannerImage: http://photos-2.asapadventures.com/blogs/2022redcentre/2022-12-31/PXL_20221231_100150073.jpg_compressed.JPEG
 title: The Red Centre 2022
 subHeading: 
 skipfeed: true

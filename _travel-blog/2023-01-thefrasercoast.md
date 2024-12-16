@@ -1,6 +1,6 @@
 ---
 layout: front-page-template
-bannerImage: https://lh3.googleusercontent.com/JVXVc_sm07jFVtYwgE50nqK705GEHd8450r9kY2th5sSY9jRQosDzYQ7Suhrzi-W5O5NzGKjZV7sBUALdK2-VEV__o5WM7kADexQ321jxnwMnva5wXtiJlFELxUmCDXmePcu_jmkjy8=w2400
+bannerImage: http://photos-2.asapadventures.com/blogs/2023frasercoast/2023-01-22/PXL_20230122_001934664%20(1).jpg_compressed.JPEG
 title: The Fraser Coast 2023
 subHeading: 
 skipfeed: true

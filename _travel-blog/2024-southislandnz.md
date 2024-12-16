@@ -1,6 +1,6 @@
 ---
 layout: front-page-template
-bannerImage: https://lh3.googleusercontent.com/pw/AP1GczMzAVcHYqJpX3K62wEbE3VA14ogvZCEqBr16utHdhi1CezKALXLCWCaSnQXNyrUCEhxloXzTALgIlEb3JJGrTTCNb0ZKpcHOmdQfgGc0Zj7w7wT7qEL=w2400
+bannerImage: http://photos-2.asapadventures.com/blogs/2024newzealand/2024-06-30/PXL_20240629_215945164.jpg_compressed.JPEG
 title: South Island NZ 2024
 subHeading: 
 skipfeed: true

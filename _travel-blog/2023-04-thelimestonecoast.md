@@ -1,6 +1,6 @@
 ---
 layout: front-page-template
-bannerImage: https://lh3.googleusercontent.com/pw/AMWts8ARukstrKpwv2bFUuIWL1j0DHB-fGBCXu_fwdStzTM6lgD1fgqhg1TdZmqIZrlls-YNEhL66QqVmQU--wRZ4X5N66CRD9EV7bTQ_MecZUPd3lQU_9Ck=w2400
+bannerImage: http://photos-2.asapadventures.com/blogs/2023limestonecoast/2023-04-08/PXL_20230408_044719066.jpg
 title: The Limestone Coast 2023
 subHeading: 
 skipfeed: true

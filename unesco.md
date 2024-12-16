@@ -8,8 +8,8 @@ visited:
   - name: Historic Monuments of Ancient Kyoto
     date: 2018-10-03
     location: Kyoto, Japan
-    blog: /travelblog/2018-09-japan
-    image: https://lh3.googleusercontent.com/UYXgj1pQkzGmgB7PNnLsEfLtKE8srJaFGbHR4iWFy4RhT0jmWTMkXZGswnpDo97UP2fUt1ekiyVM5GMiOQ08Fx-L7hU4XiI5mf2U-i_aZMas4xailCwXljuzB9hqf0OvjQXblGGaCYQ=w2400
+    blog: /travelblog/2018-10-05/
+    image: http://photos-1.asapadventures.com/blogs/2018japan/2018-10-05/IMG_20181005_090344.jpg_compressed.JPEG
 
   - name: Hiroshima Peace Memorial
     date: 2016-01-06

@@ -93,7 +93,7 @@ done:
     date: 2016-01-07
     location: Hakone, Japan
     blog: /travelblog/2016taiwanjapan/2016-01-07
-    image: https://lh3.googleusercontent.com/UrwzmpsoUvx9YMJFGQ8lM6kzCHd46dndMC6ErEI8VT4CStrjAmmtHrkpPCLuTIUBqhZgI2VrD0lQZwWY6Qz3sWwKguRlsEv_DkPj7YICL5usC29mhE-47lnifiChurKsGtavPEswJQ
+    image: http://photos-1.asapadventures.com/blogs/2016taiwanjapan/2016-01-01/IMG_20160101_184110.jpg_compressed.JPEG
 
   - name: See pandas
     date: 2013-03-26
@@ -201,13 +201,13 @@ done:
     date: 2022-04-17
     location: Healsville Sanctuary
     blog:
-    image: https://lh3.googleusercontent.com/KbcdJAbxZsSJttmkfSJJxNO0hmcupV91O_ca_vBgTRKL9YJXiIyftjh1Dgb4AVMVZihZZlijWJdFgCx01VG8eEmOm6OlETVL62EK62nrL7auF4qEkTXlDCF5mmn1hY2--B2pXT7CoF0=w2400
+    image: images/bucketlist/468324654_10162490768255016_2011960311487144937_n.jpg
 
   - name: Feed a red panda
     date: 2022-01-25
     location: Halls Gap
     blog:
-    image: https://lh3.googleusercontent.com/f507Mx0UWzX3fg1fM9hv8AnQ-9knaSVf-88gjFchVGnyWNgJB49hiPJvRq8lECEj9LpuT5HDqAmf5vpH7z8Ks0MnweXoJHTixYokiPdIKBPMRNUyRjeK-b-tSz-x8i_NjPYzT6LErvc=w2400
+    image: images/bucketlist/PXL_20220124_235036244.jpg
 
   - name: Visit Australia Zoo
     date: 2022-04-20
