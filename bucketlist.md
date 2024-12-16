@@ -227,7 +227,7 @@ done:
     blog: /travelblog/2023philippinesjapan/2023-12-30/
     image: http://photos-2.asapadventures.com/blogs/2023philippinesjapan/2023-12-30/PXL_20231230_080946017.jpg_compressed.JPEG
 
- - name: See baby turtles hatching
+  - name: See baby turtles hatching
     date: 2023-01-23
     location: Queensland, Australia
     blog: travelblog/2023thefrasercoast/2023-01-23/
