@@ -201,13 +201,13 @@ done:
     date: 2022-04-17
     location: Healsville Sanctuary
     blog:
-    image: images/bucketlist/468324654_10162490768255016_2011960311487144937_n.jpg
+    image: /images/bucketlist/468324654_10162490768255016_2011960311487144937_n.jpg
 
   - name: Feed a red panda
     date: 2022-01-25
     location: Halls Gap
     blog:
-    image: images/bucketlist/PXL_20220124_235036244.jpg
+    image: /images/bucketlist/PXL_20220124_235036244.jpg
 
   - name: Visit Australia Zoo
     date: 2022-04-20
@@ -220,6 +220,18 @@ done:
     location: Northern Territory, Australia
     blog: /travelblog/2022theredcentre/2022-12-30/
     image: http://photos-2.asapadventures.com/blogs/2022redcentre/2022-12-30/PXL_20221230_080218132.MP-edited.jpg_compressed.JPEG
+
+  - name: Go to Harry Potter Studios
+    date: 2023-12-30
+    location: Tokyo, Japan
+    blog: /travelblog/2023philippinesjapan/2023-12-30/
+    image: http://photos-2.asapadventures.com/blogs/2023philippinesjapan/2023-12-30/PXL_20231230_080946017.jpg_compressed.JPEG
+
+ - name: See baby turtles hatching
+    date: 2023-01-23
+    location: Queensland, Australia
+    blog: travelblog/2023thefrasercoast/2023-01-23/
+    image: http://photos-2.asapadventures.com/blogs/2023frasercoast/2023-01-23/PXL_20230123_092712855.MP.jpg_compressed.JPEG
 
 todo:
   - name: Visit Angkor Wat
@@ -254,13 +266,14 @@ todo:
   - name: Sleep in a real castle
   - name: Go to Transylvania
   - name: See the Berlin Wall
-  - name: Go to Harry Potter Studios
   - name: See a quokka
   - name: Fossil coast in England
   - name: See Orca's
-  - name: See baby turtles hatching
   - name: Visit the guinea pig bridge
   - name: Unironically take a Fahrt to Assmannshausen
+  - name: Go to APOPO
+  - name: See a pangolin in the wild
+  - name: See polar bears in the wild
 ---
 
 <div class="row">
