@@ -160,3 +160,7 @@ collections:
   blog-2024-southislandnz:
     output: true
     permalink: /travelblog/2024southislandnz:path/
+
+  blog-2024-southeastasia:
+    output: true
+    permalink: /travelblog/2024eastasia:path/
