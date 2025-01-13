@@ -233,9 +233,31 @@ done:
     blog: travelblog/2023thefrasercoast/2023-01-23/
     image: http://photos-2.asapadventures.com/blogs/2023frasercoast/2023-01-23/PXL_20230123_092712855.MP.jpg_compressed.JPEG
 
-todo:
   - name: Visit Angkor Wat
+    date: 2025-01-05
+    location: Siem Reap, Cambodia
+    blog: travelblog/2024eastasia/2025-01-05/
+    image: https://www.asapadventures.com/images/blogs/southeastasia2024/2025-01-05/PXL_20250104_235431775.jpg_compressed.JPEG
+
   - name: Cruise on the Mekong River
+    date: 2025-01-03
+    location: Phnom Penh, Cambodia
+    blog: travelblog/2024eastasia/2025-01-03/
+    image: https://www.asapadventures.com/images/blogs/southeastasia2024/2025-01-03/PXL_20250103_103108282.jpg_compressed.JPEG
+
+  - name: Stand in a rice field
+    date: 2024-12-23
+    location: Bali, Indonesia
+    blog: travelblog/2024eastasia/2024-12-23/
+    image: https://www.asapadventures.com/images/blogs/southeastasia2024/2024-12-23/PXL_20241223_070242126.jpg_compressed.JPEG
+
+  - name: Go to APOPO
+    date: 2025-01-06
+    location: Siem Reap, Cambodia
+    blog: travelblog/2024eastasia/2025-01-06/
+    image: https://www.asapadventures.com/images/blogs/southeastasia2024/2025-01-06/PXL_20250106_071108164.jpg_compressed.JPEG
+
+todo:
   - name: Do a Cannon Swing
   - name: See the Japanese Cherry Blossoms
   - name: Sleep in an igloo
@@ -246,8 +268,7 @@ todo:
   - name: Walk on the Great Wall of China
   - name: See a lantern festival
   - name: Feed a dolphin at Monkey Mia
-  - name: Stand in a rice field
-  - name: Visit the terracotta army
+   - name: Visit the terracotta army
   - name: Visit Universal Studios Hollywood
   - name: Visit Universal Studios Orlando
   - name: See the Northern Lights
@@ -271,7 +292,6 @@ todo:
   - name: See Orca's
   - name: Visit the guinea pig bridge
   - name: Unironically take a Fahrt to Assmannshausen
-  - name: Go to APOPO
   - name: See a pangolin in the wild
   - name: See polar bears in the wild
 ---
