@@ -268,7 +268,7 @@ todo:
   - name: Walk on the Great Wall of China
   - name: See a lantern festival
   - name: Feed a dolphin at Monkey Mia
-   - name: Visit the terracotta army
+  - name: Visit the terracotta army
   - name: Visit Universal Studios Hollywood
   - name: Visit Universal Studios Orlando
   - name: See the Northern Lights
