@@ -124,6 +124,30 @@ visited:
     location: Nara, Japan
     blog: /travelblog/2018japan/2018-10-02/
     image: http://photos-1.asapadventures.com/blogs/2018japan/2018-10-02/IMG_9901.jpg_compressed.JPEG
+
+  - name: Bali's Subak System
+    date: 2024-12-24
+    location: Bali, Indonesia
+    blog: 2024eastasia/2024-12-24/
+    image: https://www.asapadventures.com/images/blogs/southeastasia2024/2024-12-24/PXL_20241224_062455745.jpg_compressed.JPEG
+
+  - name: Meleka and George Town
+    date: 2024-12-29
+    location: Penang, Malaysia
+    blog: 2024eastasia/2024-12-29/
+    image: https://www.asapadventures.com/images/blogs/southeastasia2024/2024-12-29/PXL_20241229_061521952.jpg_compressed.JPEG
+
+  - name: The Andaman Sea Nature Reserves of Thailand 
+    date: 2024-12-31
+    location: Phang Nga Bay, Thailand
+    blog: 2024eastasia/2024-12-31/
+    image: https://www.asapadventures.com/images/blogs/southeastasia2024/2024-12-31/PXL_20241231_044425767.jpg_compressed.JPEG
+
+  - name: Angkor
+    date: 2025-01-05
+    location: Angkor, Cambodia
+    blog: 2024eastasia/2025-01-05/
+    image: https://www.asapadventures.com/images/blogs/southeastasia2024/2025-01-05/PXL_20250104_235431775.jpg_compressed.JPEG
 ---
 
 <div class="row">
