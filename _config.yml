@@ -164,3 +164,7 @@ collections:
   blog-2024-southeastasia:
     output: true
     permalink: /travelblog/2024eastasia:path/
+
+  blog-2025-japan-islands:
+    output: true
+    permalink: /travelblog/2025japanislands:path/
