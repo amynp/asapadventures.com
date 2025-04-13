@@ -8,6 +8,7 @@ relative_permalinks: false
 permalink: :title/
 plugins:
   - jekyll-paginate
+  - jekyll-feed
 
 sass:
   sass_dir: _sass
