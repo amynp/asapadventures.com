@@ -1,6 +1,6 @@
 ---
 layout: front-page-template
-bannerImage: /images/blogs/2025japanislands/2025-04-12/PXL_20250412_005937821.jpg_compressed.JPEG
+bannerImage: /images/blogs/2025japanislands/2025-04-15/PXL_20250415_075712695.jpg_compressed.JPEG
 title: Japan Islands 2025
 subHeading: A short trip to Hong Kong, Japan and a cruise to Okinawa and Taiwan. 
 skipfeed: true
