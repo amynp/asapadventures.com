@@ -279,7 +279,7 @@ done:
     date: 2025-08-31
     location: St Kilda, Australia
     blog:
-    image: images\bucketlist\PXL_20250831_120919057.jpg_compressed.JPEG
+    image: /images/bucketlist/PXL_20250831_120919057.jpg_compressed.JPEG
 
 todo:
   - name: Do a Cannon Swing
