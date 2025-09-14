@@ -257,9 +257,33 @@ done:
     blog: travelblog/2024eastasia/2025-01-06/
     image: https://www.asapadventures.com/images/blogs/southeastasia2024/2025-01-06/PXL_20250106_071108164.jpg_compressed.JPEG
 
+  - name: Visit the guinea pig bridge
+    date: 2025-04-16
+    location: Nagasaki, Japan
+    blog: travelblog/2025japanislands/2025-04-16/
+    image: https://www.asapadventures.com/images/blogs/2025japanislands/2025-04-16/PXL_20250416_073211985.jpg_compressed.JPEG
+
+  - name: See the Japanese Cherry Blossoms
+    date: 2025-04-15
+    location: Fukuoka, Japan
+    blog: travelblog/2025japanislands/2025-04-15/
+    image: https://www.asapadventures.com/images/blogs/2025japanislands/2025-04-15/PXL_20250415_075624608.jpg_compressed.JPEG
+  
+  - name: See an Active Volcano
+    date: 2025-04-18
+    location: Mt Aso, Japan
+    blog: travelblog/2025japanislands/2025-04-18/
+    image: https://www.asapadventures.com/images/blogs/2025japanislands/2025-04-18/PXL_20250418_030938123.jpg_compressed.JPEG
+
+  - name: See bioluminscence
+    date: 2025-08-31
+    location: St Kilda, Australia
+    blog:
+    image: images\bucketlist\PXL_20250831_120919057.jpg_compressed.JPEG
+
 todo:
   - name: Do a Cannon Swing
-  - name: See the Japanese Cherry Blossoms
+  - name: Go to Lipton tea fields
   - name: Sleep in an igloo
   - name: Visit Shanghai Disneyland
   - name: Visit Paris Disneyland
@@ -290,10 +314,12 @@ todo:
   - name: See a quokka
   - name: Fossil coast in England
   - name: See Orca's
-  - name: Visit the guinea pig bridge
+  - name: See a leopard in Srilanka
   - name: Unironically take a Fahrt to Assmannshausen
   - name: See a pangolin in the wild
   - name: See polar bears in the wild
+  - name: See a loris
+  - name: See a Blue Whale
 ---
 
 <div class="row">
