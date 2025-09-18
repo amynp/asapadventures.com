@@ -237,43 +237,43 @@ done:
     date: 2025-01-05
     location: Siem Reap, Cambodia
     blog: travelblog/2024eastasia/2025-01-05/
-    image: https://www.asapadventures.com/images/blogs/southeastasia2024/2025-01-05/PXL_20250104_235431775.jpg_compressed.JPEG
+    image: http://photos-2.asapadventures.com/blogs/2024southeastasia/2025-01-05/PXL_20250104_235431775.jpg_compressed.JPEG
 
   - name: Cruise on the Mekong River
     date: 2025-01-03
     location: Phnom Penh, Cambodia
     blog: travelblog/2024eastasia/2025-01-03/
-    image: https://www.asapadventures.com/images/blogs/southeastasia2024/2025-01-03/PXL_20250103_103108282.jpg_compressed.JPEG
+    image: http://photos-2.asapadventures.com/blogs/2024southeastasia/2025-01-03/PXL_20250103_103108282.jpg_compressed.JPEG
 
   - name: Stand in a rice field
     date: 2024-12-23
     location: Bali, Indonesia
     blog: travelblog/2024eastasia/2024-12-23/
-    image: https://www.asapadventures.com/images/blogs/southeastasia2024/2024-12-23/PXL_20241223_070242126.jpg_compressed.JPEG
+    image: http://photos-2.asapadventures.com/blogs/2024southeastasia/2024-12-23/PXL_20241223_070242126.jpg_compressed.JPEG
 
   - name: Go to APOPO
     date: 2025-01-06
     location: Siem Reap, Cambodia
     blog: travelblog/2024eastasia/2025-01-06/
-    image: https://www.asapadventures.com/images/blogs/southeastasia2024/2025-01-06/PXL_20250106_071108164.jpg_compressed.JPEG
+    image: http://photos-2.asapadventures.com/blogs/2024southeastasia/2025-01-06/PXL_20250106_071108164.jpg_compressed.JPEG
 
   - name: Visit the guinea pig bridge
     date: 2025-04-16
     location: Nagasaki, Japan
     blog: travelblog/2025japanislands/2025-04-16/
-    image: https://www.asapadventures.com/images/blogs/2025japanislands/2025-04-16/PXL_20250416_073211985.jpg_compressed.JPEG
+    image: http://photos-2.asapadventures.com/blogs/2025japanislands/2025-04-16/PXL_20250416_073211985.jpg_compressed.JPEG
 
   - name: See the Japanese Cherry Blossoms
     date: 2025-04-15
     location: Fukuoka, Japan
     blog: travelblog/2025japanislands/2025-04-15/
-    image: https://www.asapadventures.com/images/blogs/2025japanislands/2025-04-15/PXL_20250415_075624608.jpg_compressed.JPEG
+    image: http://photos-2.asapadventures.com/blogs/2025japanislands/2025-04-15/PXL_20250415_075624608.jpg_compressed.JPEG
   
   - name: See an Active Volcano
     date: 2025-04-18
     location: Mt Aso, Japan
     blog: travelblog/2025japanislands/2025-04-18/
-    image: https://www.asapadventures.com/images/blogs/2025japanislands/2025-04-18/PXL_20250418_030938123.jpg_compressed.JPEG
+    image: http://photos-2.asapadventures.com/blogs/2025japanislands/2025-04-18/PXL_20250418_030938123.jpg_compressed.JPEG
 
   - name: See bioluminscence
     date: 2025-08-31
