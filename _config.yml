@@ -169,3 +169,7 @@ collections:
   blog-2025-japan-islands:
     output: true
     permalink: /travelblog/2025japanislands:path/
+
+  blog-2025-south-pacific-cruise:
+    output: true
+    permalink: /travelblog/2025southpacificcruise:path/
