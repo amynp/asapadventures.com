@@ -1,8 +1,8 @@
 ---
 layout: guide-template
-title: Uji and Fushimi
-subHeading: Amazing areas to visit in Kyoto. 
-bannerImage: http://photos-1.asapadventures.com/blogs/2019koreajapan/2019-09-22/IMG_1859.jpg_compressed.JPEG
+title: Top Countries
+subHeading: Where do we love the most.
+bannerImage: http://photos-1.asapadventures.com/blogs/2010japan/2010-01-05/DSC_0017.JPG_compressed.JPEG
 author: Amy Sellitti
 comments: true
 ---
@@ -37,13 +37,43 @@ Cambodia is unforgettable. Friendly locals, amazing food, and hands-on cooking e
 </div>
 
 
+# 3. Japan
+Japan is a country full of surprises at every turn. The people are polite, thoughtful, and always happy to help, and the food is incredible—whether it’s sushi, ramen, street snacks, or grabbing something quick from Family Mart or Lawson. From bustling cities (and I mean busting) to tranquil temples, serene gardens, and even the magic of Tokyo Disney, there’s always something new to explore. Japan perfectly blends tradition, modern life, and a little everyday magic, making it a place you’ll never forget.
 
 <div class="grid-2c">
-  <img src=""/>
-  <img src=""/>
+  <img src="http://photos-1.asapadventures.com/blogs/2018japan/2018-10-02/DSC_0191.jpg_compressed.JPEG"/>
+  <img src="http://photos-1.asapadventures.com/blogs/2018japan/2018-09-27/IMG_8945.jpg_compressed.JPEG"/>
 </div>
 <div class="grid-3c">
-  <img src=""/>
-  <img src=""/>
-  <img src=""/>
+  <img src="http://photos-2.asapadventures.com/blogs/2023philippinesjapan/2024-01-01/PXL_20240101_033608026_1.jpg_compressed.JPEG"/>
+  <img src="http://photos-1.asapadventures.com/blogs/2010japan/2010-01-05/img_2890.jpg_compressed.JPEG"/>
+  <img src="http://photos-2.asapadventures.com/blogs/2025japanislands/2025-04-19/PXL_20250419_070707786.PANO.jpg_compressed.JPEG"/>
+</div>
+
+
+# 4. New Zealand
+New Zealand stole our hearts with its stunning landscapes—from snow-capped mountains and lush forests to sparkling lakes and rugged coastlines. It’s extra special to us because we got married here, which has left us with some great memories. Newzeland is stunning to drive through and has awesome wildlife experiences. With its mix of adventure, beauty, and unforgettable memories, New Zealand will always have a special place in our hearts.
+
+<div class="grid-2c">
+  <img src="http://photos-2.asapadventures.com/blogs/2024newzealand/2024-07-03/PXL_20240703_004346411.jpg_compressed.JPEG"/>
+  <img src="http://photos-2.asapadventures.com/blogs/2024newzealand/2024-06-30/PXL_20240629_215945164.jpg_compressed.JPEG"/>
+</div>
+<div class="grid-3c">
+  <img src="http://photos-1.asapadventures.com/blogs/2015newzealand/2015-04-05/IMG_1436.JPG_compressed.JPEG"/>
+  <img src="http://photos-1.asapadventures.com/blogs/2017newzealand/2017-04-07/IMG_6316.JPG_compressed.JPEG"/>
+  <img src="http://photos-1.asapadventures.com/blogs/2017newzealand/2017-04-04/IMG_5744.JPG_compressed.JPEG"/>
+</div>
+
+# 5. Hong Kong
+
+Hong Kong is a city that buzzes with energy and charm. We might not have loved it the first time we went but the more you uncover you will see what an amazing gem it is, The food is incredible—especially dim sum, which we could eat every day! From exploring vibrant streets and markets to soaking in stunning harbor views, there’s always something to discover. And yes, Hong Kong Disneyland is hands-down the best one we’ve ever been to! Pure magic! Between the food, sights, and unforgettable experiences, Hong Kong is a city we’ll always love.
+
+<div class="grid-2c">
+  <img src="http://photos-1.asapadventures.com/blogs/2014hongkong/2014-01-02/IMG_5683.JPG_compressed.JPEG"/>
+  <img src="http://photos-1.asapadventures.com/blogs/2017hongkong/2017-01-12/10.1484257921.view-from-cable-car-edited.jpg_compressed.JPEG"/>
+</div>
+<div class="grid-3c">
+  <img src="http://photos-1.asapadventures.com/blogs/2018singaporehongkong/2018-04-07/IMG_8322.jpg_compressed.JPEG"/>
+  <img src="http://photos-2.asapadventures.com/blogs/2025japanislands/2025-04-13/PXL_20250413_074912733.PANO.jpg_compressed.JPEG"/>
+  <img src="http://photos-1.asapadventures.com/blogs/2018singaporehongkong/2018-04-07/IMG_8368.jpg_compressed.JPEG"/>
 </div>
