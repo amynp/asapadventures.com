@@ -34,6 +34,10 @@ collections:
     output: true
     permalink: /travelguides/australia/:path
 
+  guide-toptips:
+    output: true
+    permalink: /travelguides/toptips/:path
+
   travel-blog:
     output: true
     permalink: /travelblog/:path
