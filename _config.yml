@@ -177,3 +177,7 @@ collections:
   blog-2025-south-pacific-cruise:
     output: true
     permalink: /travelblog/2025southpacificcruise:path/
+
+  blog-2025-srilanka:
+    output: true
+    permalink: /travelblog/2025srilanka:path/
