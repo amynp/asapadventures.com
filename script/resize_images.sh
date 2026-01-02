@@ -8,10 +8,15 @@ cd "$parent_path"
 
 # Parse options
 DRY_RUN=0
+ADD_IMAGES=0
 while [ $# -gt 0 ]; do
 	case "$1" in
-		-n|--dry-run)
+		-d|--dry-run)
 			DRY_RUN=1
+			shift
+			;;
+		-a|--add-images)
+			ADD_IMAGES=1
 			shift
 			;;
 		-h|--help)
@@ -28,6 +33,13 @@ done
 
 # Determine repo root (script lives in `script/` under repo)
 repo_root=$(cd "$parent_path/.." && pwd -P)
+
+# Add images if requested
+if [ "$ADD_IMAGES" -eq 1 ]; then
+	echo "Staging images."
+	git -C "$repo_root" add $repo_root/images/*
+fi
+
 
 # Collect staged JPEG/JPG files (added, copied, or modified)
 mapfile -d '' -t staged_files < <(git -C "$repo_root" diff --name-only --cached --diff-filter=ACM -z -- '*.jpg' '*.jpeg' '*.JPG' '*.JPEG')
