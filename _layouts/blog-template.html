@@ -51,4 +51,23 @@ layout: default
 
     {% include go-up-arrow.html %}
   </main>
+
+  <link rel="stylesheet" href="{{ "/css/tobii.min.css" | prepend: site.baseurl }}" />
+  <script type="text/javascript" src="{{ "/js/tobii.min.js" | prepend: site.baseurl }}"></script>
+  <script>
+    console.log("[POOP dafuq")
+    document.addEventListener('DOMContentLoaded', function() {
+      console.log("[POOP] domloaded")
+      // This assumes your article is wrapped in an element with the class "content-article".
+  document.querySelectorAll('.blog-post-content img').forEach((articleImg) => {
+    // Add lightbox elements in blog articles for Tobii.
+    const lightbox = document.createElement('a');
+    lightbox.href = articleImg.src;
+    lightbox.classList.add('lightbox');
+    lightbox.dataset.group = 'article';
+    // articleImg.parentNode.appendChild(lightbox);
+    // lightbox.appendChild(articleImg);
+  });
+    });
+  </script>
 </div>
