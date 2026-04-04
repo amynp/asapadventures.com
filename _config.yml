@@ -160,24 +160,28 @@ collections:
 
   # blog-2024-canberra:
   #   output: true
-  #   permalink: /travelblog/2024canberra:path/
+  #   permalink: /travelblog/2024canberra/:path/
 
   blog-2024-southislandnz:
     output: true
-    permalink: /travelblog/2024southislandnz:path/
+    permalink: /travelblog/2024southislandnz/:path/
 
   blog-2024-southeastasia:
     output: true
-    permalink: /travelblog/2024eastasia:path/
+    permalink: /travelblog/2024eastasia/:path/
 
   blog-2025-japan-islands:
     output: true
-    permalink: /travelblog/2025japanislands:path/
+    permalink: /travelblog/2025japanislands/:path/
 
   blog-2025-south-pacific-cruise:
     output: true
-    permalink: /travelblog/2025southpacificcruise:path/
+    permalink: /travelblog/2025southpacificcruise/:path/
 
   blog-2025-srilanka:
     output: true
-    permalink: /travelblog/2025srilanka:path/
+    permalink: /travelblog/2025srilanka/:path/
+
+  blog-2026-south-pacific-cruise:
+    output: true
+    permalink: /travelblog/2026southpacificcruise/:path/
