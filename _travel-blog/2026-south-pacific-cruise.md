@@ -1,6 +1,6 @@
 ---
 layout: front-page-template
-bannerImage: /images/blogs/2025southpacificcruise/26-09-2025/PXL_20250926_072052853.jpg_compressed.JPEG
+bannerImage: /images/blogs/2026southpacificcruise/07-04-2026/PXL_20260407_000722464.MP.jpg
 title: South Pacific Cruise 2026
 subHeading: A cruise back on the beautiful Anthem of the Seas.
 skipfeed: true
