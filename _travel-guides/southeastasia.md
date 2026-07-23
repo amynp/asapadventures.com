@@ -6,7 +6,7 @@ skipfeed: true
 ---
 
 <div class="text-uppercase adventure-list experience">
-  {% for area in site.guide-malaysia %}
+  {% for area in site.guide-southeastasia%}
     <div class="col-md-6 col-sm-6 animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1s">
       <a href="{{area.url | prepend: site.baseurl}}">
         <img src="{{ area.bannerImage }}"  alt="" class="img-responsive">

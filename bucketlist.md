@@ -281,9 +281,35 @@ done:
     blog:
     image: /images/bucketlist/PXL_20250831_120919057.jpg_compressed.JPEG
 
+  - name: Go to Lipton tea fields
+    date: 2025-12-31
+    location: Ella, Srilanka
+    blog: travelblog/2025srilanka/2025-12-31/
+    image: /images/blogs/2025srilanka/31-12-2025/PXL_20251231_052456105.jpg
+
+  - name: Go on Safari
+    date: 2025-12-27
+    location: Wilpattu, Srilanka
+    blog: travelblog/2025srilanka/2025-12-27/
+    image: /images/blogs/2025srilanka/27-12-2025/PXL_20251227_031828667.MP.jpg_compressed.JPEG
+
+  - name: See a leopard in Srilanka
+    date: 2025-12-27
+    location: Wilpattu, Srilanka
+    blog: travelblog/2025srilanka/2025-12-27/
+    image: /images/blogs/2025srilanka/27-12-2025/IMG_1852.jpg_compressed.JPEG
+
+  - name: See a loris
+    date: 2025-12-26
+    location: Wilpattu, Srilanka
+    blog: travelblog/2025srilanka/2025-12-26/
+    image: /images/blogs/2025srilanka/26-12-2025/IMG_1608_1.jpg_compressed.JPEG
+
+
+
 todo:
   - name: Do a Cannon Swing
-  - name: Go to Lipton tea fields
+  - name: See the Phantom of the Opera House
   - name: Sleep in an igloo
   - name: Visit Shanghai Disneyland
   - name: Visit Paris Disneyland
@@ -298,7 +324,7 @@ todo:
   - name: See the Northern Lights
   - name: Visit Stonehedge
   - name: See Nessie
-  - name: Go on Safari
+  - name: See a puffin
   - name: Ride a Gondala in Venice
   - name: Visit the Colosseum
   - name: Visit Noltre Dame
@@ -314,11 +340,11 @@ todo:
   - name: See a quokka
   - name: Fossil coast in England
   - name: See Orca's
-  - name: See a leopard in Srilanka
+  - name: See the Norway Fjords
   - name: Unironically take a Fahrt to Assmannshausen
   - name: See a pangolin in the wild
   - name: See polar bears in the wild
-  - name: See a loris
+  - name: Visit the Beauty and the beast library
   - name: See a Blue Whale
 ---
 
