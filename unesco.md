@@ -148,6 +148,49 @@ visited:
     location: Angkor, Cambodia
     blog: 2024eastasia/2025-01-05/
     image:  http://photos-2.asapadventures.com/blogs/2024southeastasia/2025-01-05/PXL_20250104_235431775.jpg_compressed.JPEG
+
+  - name: Sengan-en
+    date: 2025-04-19
+    location: Kagoshima, Japan
+    blog: 2025japanislands/2025-04-19/
+    image:  http://photos-2.asapadventures.com/blogs/2025japanislands/2025-04-19/PXL_20250419_050900483.jpg_compressed.JPEG
+
+  - name: Aso UNESCO Global Geopark
+    date: 2025-04-18
+    location: Mt Aso, Japan
+    blog: 2025japanislands/2025-04-18/
+    image:  http://photos-2.asapadventures.com/blogs/2025japanislands/2025-04-18/PXL_20250418_030824155.jpg_compressed.JPEG
+
+  - name: Ancient City of Sigiriya
+    date: 2025-12-28
+    location: Sigiriya, Srilanka
+    blog: 2025srilanka/2025-12-28/
+    image:  https://www.asapadventures.com/images/blogs/2025srilanka/28-12-2025/PXL_20251228_100433722.jpg
+
+  - name: Old Town of Galle and its Fortifications
+    date: 2026-01-03
+    location: Galle, Srilanka
+    blog: 2025srilanka/2026-01-03/
+    image:  https://www.asapadventures.com/images/blogs/2025srilanka/03-12-2025/PXL_20260103_095424705.jpg
+
+  - name: Sacred City of Kandy
+    date: 2025-12-29
+    location: Kandy, Srilanka
+    blog: 2025srilanka/29-12-2025/
+    image:  https://www.asapadventures.com/images/blogs/2025srilanka/29-12-2025/PXL_20251229_121913497.MP.jpg
+
+  - name: Historic City of Ayutthaya 
+    date: 2025-12-25
+    location: Ayutthaya, Thailand
+    blog: 2025srilanka/2025-12-25/
+    image:  https://www.asapadventures.com/images/blogs/2025srilanka/25-12-2025/PXL_20251225_064052928.jpg_compressed.JPEG
+
+  - name: Vanuatu Sand Drawings
+    date: 2026-04-07
+    location: Ayutthaya, Thailand
+    blog: 2026southpacificcruise/2026-04-07/
+    image:  https://www.asapadventures.com/images/blogs/2026southpacificcruise/07-04-2026/PXL_20260406_231508787.jpg
+
 ---
 
 <div class="row">
