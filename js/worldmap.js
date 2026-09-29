@@ -174,7 +174,7 @@ async function renderWorldMap(container, mapData, options = {}) {
     .attr("x", (d) => (d.align === "left" ? -5 : 5))
     .attr("y", 2)
     .attr("text-anchor", (d) => (d.align === "left" ? "end" : "start"))
-    .attr("font-size", 9)
+    .attr("font-size", 10)
     .attr("font-family", "system-ui, sans-serif")
     .attr("fill", color("--worldmap-pin-text", "#e8edf2"))
     .attr("stroke", color("--worldmap-pin-halo", "#0f1a26"))
@@ -182,20 +182,33 @@ async function renderWorldMap(container, mapData, options = {}) {
     .attr("paint-order", "stroke")
     .text((d) => d.name);
 
-  // Wheel-zoom + drag-pan; pins counter-scale to a constant screen size.
+  // Wheel-zoom + drag-pan; pins counter-scale to a constant screen size,
+  // against both the zoom level and the CSS scale-down of the responsive SVG.
   // Capitals show at every zoom; the rest appear once zoom exceeds detailZoom.
+  let zoomK = 1;
+  let renderScale = 1;
+  const updatePins = () => {
+    g.selectAll(".pin")
+      .attr("transform", (d) => `translate(${d.x},${d.y}) scale(${pinScale / (zoomK * renderScale)})`)
+      .attr("display", (d) => (d.capital || zoomK > detailZoom ? null : "none"));
+  };
   svg.call(
     d3
       .zoom()
       .scaleExtent([1, 30])
       .on("zoom", (event) => {
-        const k = event.transform.k;
+        zoomK = event.transform.k;
         g.attr("transform", event.transform);
-        g.selectAll(".pin")
-          .attr("transform", (d) => `translate(${d.x},${d.y}) scale(${pinScale / k})`)
-          .attr("display", (d) => (d.capital || k > detailZoom ? null : "none"));
+        updatePins();
       }),
   );
+  new ResizeObserver((entries) => {
+    const w = entries[0].contentRect.width;
+    if (w > 0) {
+      renderScale = w / width;
+      updatePins();
+    }
+  }).observe(svg.node());
 
   return { marked, total: 195, pins: mapData.pins.length };
 }
