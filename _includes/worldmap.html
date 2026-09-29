@@ -1,0 +1,176 @@
+<script>
+  const MAP_DATA = {
+    seas: [
+      "Andaman Sea",
+      "Bass Strait",
+      "Coral Sea",
+      "East China Sea",
+      "Gulf of Tonkin",
+      "Indian Ocean",
+      "Laccadive Sea",
+      "South China Sea",
+      "South Pacific Ocean",
+      "Strait of Malacca",
+      "Taiwan Strait",
+      "Tasman Sea",
+
+      // "English Channel",
+      // "North Sea",
+      // "Boknafjorden",
+      // "Sea of Marmara",
+    ],
+    pins: [
+      { country: "au", name: "Adelaide", lat: -34.93, lon: 138.6 },
+      { country: "au", name: "Alice Springs", lat: -23.7, lon: 133.88 },
+      { country: "au", name: "Broken Hill", lat: -31.96, lon: 141.47 },
+      { country: "au", name: "Canberra", capital: true, lat: -35.28, lon: 149.13 },
+      { country: "au", name: "Coober Pedy", lat: -29.01, lon: 134.75 },
+      { country: "au", name: "Darwin", lat: -12.46, lon: 130.84 },
+      { country: "au", name: "Fraser Island (K'gari)", lat: -25.24, lon: 153.13 },
+      { country: "au", name: "Hobart", lat: -42.88, lon: 147.33 },
+      { country: "au", name: "Kakadu", lat: -12.68, lon: 132.53 },
+      { country: "au", name: "Launceston", lat: -41.44, lon: 147.14 },
+      { country: "au", name: "Melbourne", lat: -37.81, lon: 144.96 },
+      { country: "au", name: "Strahan", lat: -42.15, lon: 145.33 },
+      { country: "au", name: "Sunshine Coast", lat: -26.65, lon: 153.07 },
+      { country: "au", name: "Sydney", lat: -33.87, lon: 151.21 },
+      { country: "au", name: "Uluru", lat: -25.34, lon: 131.04 },
+      { country: "bn", name: "Brunei", capital: true, lat: 4.9, lon: 114.94 },
+      { country: "hk", name: "Hong Kong", capital: true, lat: 22.32, lon: 114.17 },
+      { country: "id", name: "Bali", lat: -8.41, lon: 115.19 },
+      { country: "jp", name: "Fukuoka", lat: 33.59, lon: 130.4 },
+      { country: "jp", name: "Guinea Pig Bridge", lat: 32.94, lon: 129.72 },
+      { country: "jp", name: "Hiroshima", lat: 34.39, lon: 132.46 },
+      { country: "jp", name: "Kagoshima", lat: 31.6, lon: 130.56 },
+      { country: "jp", name: "Kyoto", lat: 35.01, lon: 135.77 },
+      { country: "jp", name: "Mt Aso", lat: 32.9, lon: 131.09 },
+      { country: "jp", name: "Mt Fuji", lat: 35.36, lon: 138.73 },
+      { country: "jp", name: "Okinawa", lat: 26.21, lon: 127.68 },
+      { country: "jp", name: "Osaka", lat: 34.69, lon: 135.5 },
+      { country: "jp", name: "Sapporo", lat: 43.06, lon: 141.35 },
+      { country: "jp", name: "Tokyo", capital: true, lat: 35.68, lon: 139.69 },
+      { country: "kh", name: "Angkor Wat", lat: 13.41, lon: 103.87 },
+      { country: "kh", name: "Phnom Penh", capital: true, lat: 11.56, lon: 104.92 },
+      { country: "kh", name: "Siem Reap", lat: 13.36, lon: 103.86, align: "left" },
+      { country: "kp", name: "Pyongyang", capital: true, lat: 39.03, lon: 125.75 },
+      { country: "kp", name: "DMZ (Panmunjom)", lat: 37.96, lon: 126.68 },
+      { country: "kr", name: "Busan", lat: 35.18, lon: 129.08 },
+      { country: "kr", name: "Jeju", lat: 33.5, lon: 126.53 },
+      { country: "kr", name: "Seoul", capital: true, lat: 37.57, lon: 126.98 },
+      { country: "lk", name: "Colombo", capital: true, lat: 6.93, lon: 79.86 },
+      { country: "lk", name: "Ella", lat: 6.87, lon: 81.05 },
+      { country: "lk", name: "Kandy", lat: 7.29, lon: 80.64 },
+      { country: "lk", name: "Mirissa", lat: 5.95, lon: 80.46 },
+      { country: "lk", name: "Sigiriya", lat: 7.96, lon: 80.76 },
+      { country: "lk", name: "Wilpattu", lat: 8.43, lon: 80.0 },
+      { country: "mo", name: "Macau", capital: true, lat: 22.2, lon: 113.55 },
+      { country: "my", name: "Kuala Lumpur", capital: true, lat: 3.14, lon: 101.69 },
+      { country: "my", name: "Penang", lat: 5.42, lon: 100.33 },
+      { country: "nc", name: "Lifou", lat: -20.92, lon: 167.25 },
+      { country: "nc", name: "Nouméa", capital: true, lat: -22.28, lon: 166.46 },
+      { country: "nz", name: "Auckland", lat: -36.85, lon: 174.76 },
+      { country: "nz", name: "Christchurch", lat: -43.53, lon: 172.64 },
+      { country: "nz", name: "Milford Sound", lat: -44.67, lon: 167.93 },
+      { country: "nz", name: "Queenstown", lat: -45.03, lon: 168.66 },
+      { country: "nz", name: "Rotorua", lat: -38.14, lon: 176.25 },
+      { country: "nz", name: "Wellington", capital: true, lat: -41.29, lon: 174.78 },
+      { country: "ph", name: "Manila", capital: true, lat: 14.6, lon: 120.98 },
+      { country: "sg", name: "Singapore", capital: true, lat: 1.35, lon: 103.82 },
+      { country: "th", name: "Ayutthaya", lat: 14.35, lon: 100.57 },
+      { country: "th", name: "Bangkok", capital: true, lat: 13.76, lon: 100.5 },
+      { country: "th", name: "Phuket", lat: 7.88, lon: 98.39 },
+      { country: "tw", name: "Kaohsiung", lat: 22.63, lon: 120.3 },
+      { country: "tw", name: "Keelung", lat: 25.13, lon: 121.74 },
+      { country: "tw", name: "Taipei", capital: true, lat: 25.03, lon: 121.57 },
+      { country: "tw", name: "Taroko Gorge", lat: 24.16, lon: 121.62 },
+      { country: "vn", name: "Ha Long Bay", lat: 20.91, lon: 107.18 },
+      { country: "vn", name: "Hanoi", capital: true, lat: 21.03, lon: 105.85 },
+      { country: "vu", name: "Port Vila", capital: true, lat: -17.73, lon: 168.32 },
+
+      // { country: "tr", name: "Istanbul", capital: true, lat: 40.01, lon: 28.96 },
+      // { country: "gb-sct", name: "Edinburgh", capital: true, lat: 55.96, lon: -3.19 },
+      // { country: "gb-sct", name: "Glencoe", lat: 56.68, lon: -5.1 },
+      // { country: "gb-eng", name: "Southampton", lat: 50.91, lon: -1.41 },
+      // { country: "no", name: "Haugesund", lat: 59.41, lon: 5.26 },
+      // { country: "no", name: "Bergen", lat: 60.37, lon: 5.32 },
+      // { country: "no", name: "Olden", lat: 61.83, lon: 6.81 },
+      // { country: "no", name: "Stavanger", lat: 58.97, lon: 5.73 },
+      // { country: "gb-eng", name: "London", capital: true, lat: 51.52, lon: -0.13 },
+      // { country: "gb-wls", name: "Cardiff", capital: true, lat: 51.48, lon: -3.17 },
+      // { country: "fr", name: "Paris", capital: true, lat: 48.86, lon: 2.34 },
+      // { country: "de", name: "Frankfurt", lat: 50.12, lon: 8.68 },
+    ],
+  };
+</script>
+
+<style>
+  @media (min-width: 768px) {
+    .worldmap-container {
+      width: 750px;
+    }
+  }
+
+  @media (min-width: 992px) {
+    .worldmap-container {
+      width: 970px;
+    }
+  }
+
+  @media (min-width: 1200px) {
+    .worldmap-container {
+      width: 1200px;
+    }
+  }
+
+  .worldmap-container {
+    width: 100%;
+    padding: 0 15px;
+    box-sizing: border-box;
+    margin-top: 30px;
+    margin-bottom: -20px;
+  }
+
+  #worldmap {
+    position: relative;
+background: #617b99;                    /* ocean: slate blue */
+  --worldmap-land: #2c3a4a;               /* unvisited land */
+  --worldmap-land-hover: #3d4f63;
+  --worldmap-visited: #35c26e;            /* visited green (unchanged) */
+  --worldmap-visited-hover: #4fdd88;
+  --worldmap-sea: #2e6edb;                /* named seas (unchanged) */
+  --worldmap-pin: #ff5a5f;
+  --worldmap-pin-text: #e8edf2;           /* light text... */
+  --worldmap-pin-halo: #0f1a26;           /* ...dark outline behind it: legible on any ground */
+  }
+
+  #worldmap::after {
+    content: "";
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    right: 10px;
+    bottom: 10px;
+    border: 10px solid #fff;
+    pointer-events: none;
+  }
+
+  #stats {
+    font-weight: bold;
+    letter-spacing: 1px;
+    width: 90%;
+    margin: auto;
+  }
+</style>
+
+<div class="worldmap-container">
+  <div id="worldmap"></div>
+  <h5 id="stats" class="text-center text-uppercase"></h5>
+</div>
+<script src="/js/d3.min.js"></script>
+<script src="/js/topojson-client.min.js"></script>
+<script src="/js/worldmap.js"></script>
+<script>
+  renderWorldMap(document.getElementById("worldmap"), MAP_DATA, { centerLon: 134 }).then(({ marked, total }) => {
+    document.getElementById("stats").textContent = `${marked} / ${total} countries`;
+  });
+</script>
