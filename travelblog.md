@@ -18,6 +18,8 @@ title: My Travel Blogs
 subHeading: Join ASAPadventures on our trips around the world
 ---
 
+{% include worldmap.html %}
+
 <div class="text-uppercase adventure-list experience">
   {% for day in site.travel-blog reversed %}
     <div class="col-md-6 col-sm-6 animated fadeInUp" data-wow-delay="0.{{ forloop.index }}s" data-wow-duration="1s">
