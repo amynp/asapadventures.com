@@ -2315,6 +2315,23 @@ span.post-author a:hover{color: #e04930;}
 	text-align: center;
 	padding-bottom: 20px;
 }
+.blog-post-content table {
+	margin: 0 auto;
+	margin-bottom: 20px;
+}
+.blog-post-content td:first-child {
+	font-weight: 700;
+}
+.blog-post-content td, .blog-post-content th {
+	padding: 10px;
+	padding-bottom: 5px;
+}
+.blog-post-content th {
+	padding-top: 5px;
+}
+.blog-post-content tbody tr:nth-child(odd) {
+	background-color: #F1F1F1;
+}
 .blog-post-content img{
 	width: 100%;
 }
