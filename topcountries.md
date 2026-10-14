@@ -6,9 +6,11 @@ bannerImage: http://photos-1.asapadventures.com/blogs/2010japan/2010-01-05/DSC_0
 author: Amy Sellitti
 comments: true
 ---
+
 Hello, We’ve been lucky enough to travel to a bunch of amazing countries, and some of them have really stuck with us. In this post, I’m sharing my favourite travel countries in order, memories we can’t forget, and maybe even some spots you’ll want to add to your own travel list. I won't be putting Australia on this list as its where I am from. 
 
 # 1. Taiwan
+
 Times Visited: 3
 
 | | Amy | Anthony |

@@ -1,12 +1,12 @@
 ---
 layout: front-page-template
-bannerImage: http://photos-2.asapadventures.com/blogs/2024southeastasia/2025-01-07/PXL_20250107_012234499.jpg_compressed.JPEG
+bannerImage: http://photos-2.asapadventures.com/blogs/2024newzealand/2024-07-03/PXL_20240703_004346411.jpg_compressed.JPEG
 subHeading:
 skipfeed: true
 ---
 
 <div class="text-uppercase adventure-list experience">
-  {% for area in site.guide-toptips %}
+  {% for area in site.guide-newzealand %}
     <div class="col-md-6 col-sm-6 animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1s">
       <a href="{{area.url | prepend: site.baseurl}}">
         <img src="{{ area.bannerImage }}"  alt="" class="img-responsive">

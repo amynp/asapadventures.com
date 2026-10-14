@@ -1,39 +1,51 @@
-<script>
-  var images = [ 
-    "{{page.bannerImage}}", 
-    {% if page.bannerImages != null %}
-      {% for image in page.bannerImages %}
-        "{{image}}",
+{% if page.header %}
+  <script>
+    var images = [
+      "{{page.bannerImage}}",
+      {% if page.bannerImages != null %}
+    {% for image in page.bannerImages %}
+    "{{image}}",
       {% endfor %}
     {% endif %}
-  ];
+      ];
 
-  document.addEventListener("DOMContentLoaded", function(e) {
-    var image = images[Math.floor(Math.random()*images.length)];
-    document.getElementById("banner").setAttribute("data-bg", image);
-  });
-</script>
+    document.addEventListener("DOMContentLoaded", function (e) {
+      var image = images[Math.floor(Math.random() * images.length)];
+      document.getElementById("banner").setAttribute("data-bg", image);
+    });
+  </script>
 
-<header id="banner" class="overlay" data-bg="{{ page.bannerImage }}">
+  <header id="banner" class="overlay" data-bg="{{ page.bannerImage }}">
+    <nav class="navbar navbar-fixed-top">
+      <div class="container">
+        {% include menu.html %}
+      </div>
+    </nav>
+
+    <div class="header-center-content">
+      <div class="container">
+        <div class="row text-center section-intro">
+          <div class="col-md-offset-2 col-md-8">
+            <h1 class="text-uppercase animated fadeInUp">{{ page.title }}</h1>
+            <p class="animated fadeInUp">{{ page.subHeading }}</p>
+            {% if page.author != null %}
+            <span class="post-author text-uppercase">
+              by {{ page.author }}
+              {% if page.date %} 
+                on {{ page.date | date: "%B %-d, %Y" }}
+              {% endif %}
+            </span>
+            {% endif %}
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+{% else %}
   <nav class="navbar navbar-fixed-top">
     <div class="container">
       {% include menu.html %}
     </div>
   </nav>
-
-  <div class="header-center-content">
-    <div class="container">
-      <div class="row text-center section-intro">
-        <div class="col-md-offset-2 col-md-8">
-          <h1 class="text-uppercase animated fadeInUp">{{ page.title }}</h1>
-          <p class="animated fadeInUp">{{ page.subHeading }}</p>
-          {% if page.author != null %}
-            <span class="post-author text-uppercase">
-              by {{ page.author }} on {{ page.date | date: "%B %-d, %Y" }}
-            </span>
-          {% endif %}
-        </div>
-      </div>
-    </div>
-  </div>
-</header>
+  <div class="navbar-clear"></div>
+{% endif %}

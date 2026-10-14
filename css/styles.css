@@ -232,6 +232,9 @@ input:focus{
     -moz-transform: translateY(11px);
     transform: translateY(11px);
 }
+.navbar-clear {
+	height:30px;
+}
 /*** /.navbar and main menu ***/
 
 /*** video background ***/

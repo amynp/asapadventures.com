@@ -14,6 +14,13 @@ sass:
   sass_dir: _sass
   style: compressed
 
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      header: true
+
 exclude:
   - script
 
@@ -21,10 +28,6 @@ collections:
   travel-guides:
     output: true
     permalink: /travelguides/:path
-
-  guide-japan:
-    output: true
-    permalink: /travelguides/japan/:path
 
   guide-malaysia:
     output: true
@@ -34,9 +37,17 @@ collections:
     output: true
     permalink: /travelguides/australia/:path
 
-  guide-toptips:
+  guide-newzealand:
     output: true
-    permalink: /travelguides/toptips/:path
+    permalink: /travelguides/newzealand/:path
+
+  guide-southeastasia:
+    output: true
+    permalink: /travelguides/southeastasia/:path
+
+  guide-asia:
+    output: true
+    permalink: /travelguides/asia/:path
 
   travel-blog:
     output: true

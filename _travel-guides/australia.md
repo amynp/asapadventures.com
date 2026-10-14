@@ -1,6 +1,6 @@
 ---
 layout: front-page-template
-bannerImage: http://photos-2.asapadventures.com/blogs/2022tasmania/2022-07-03/20220703180734_IMG_9075.JPG_compressed.JPEG
+bannerImage: http://photos-2.asapadventures.com/blogs/2022redcentre/2022-12-31/PXL_20221231_100150073.jpg_compressed.JPEG
 subHeading:
 skipfeed: true
 ---

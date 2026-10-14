@@ -2,7 +2,7 @@
 layout: front-page-template
 bannerImage: http://photos-1.asapadventures.com/blogs/2018japan/2018-09-30/IMG_9414.jpg_compressed.JPEG
 title: My Travel Guides
-subHeading: Welcome to our travel guides! Here we hope to provide you with day trips and guides to make your holiday the best. These guides have been written after we have experienced them to ensure they work.
+subHeading: Welcome to our travel guides! Here is our collection of travel guides as I have planned them. Hopefully they may help some of you plan a trip.
 ---
 
 <div class="text-uppercase adventure-list experience">

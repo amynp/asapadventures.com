@@ -71,6 +71,16 @@ subHeading:
     </a>
   </div>
 
+  <div class="col-md-6 col-sm-6 animated fadeInUp" data-wow-delay="0.2s" data-wow-duration="1s">
+    <a href="/topcountries">
+      <img src="http://photos-2.asapadventures.com/blogs/2022redcentre/2022-12-31/20221231213652_IMG_0023.JPG_compressed.JPEG" alt="adventure-image" class="img-responsive">
+      <div class="overlay-lnk text-uppercase text-center">
+        <i class="icon icon-streetsign"></i>
+        <h5>Our Top Countries and Stats</h5>
+      </div>
+    </a>
+  </div>
+
   <div class="col-md-6 col-sm-6 animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1s">
     <a href="https://www.redbubble.com/people/asapadventures/shop?asc=u">
       <img src="http://photos-1.asapadventures.com/blogs/2019vietnamtaiwan/2020-01-04/20200104173104_IMG_4349.jpg_compressed.JPEG">
